@@ -1,0 +1,1114 @@
+{
+    "preguntas": [
+        {
+            "texto": "```Resuelve la siguiente suma: 22+39```",
+            "respuesta": "61",
+            "pista": "Años de la carrera militar mínima para pensión en algunos países",
+            "mensaje": "**61.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 33x14```",
+            "respuesta": "462",
+            "pista": "Días en 1 año y 3 meses aproximadamente (sin contar bisiestos)",
+            "mensaje": "**462.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 91/7```",
+            "respuesta": "13",
+            "pista": "Número de jugadores en un equipo de fútbol + 2",
+            "mensaje": "**13.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 54+68```",
+            "respuesta": "122",
+            "pista": "Velocidad máxima en km/h en autopistas de Corea del Sur",
+            "mensaje": "**122.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 67-24```",
+            "respuesta": "43",
+            "pista": "Número de países reconocidos en el continente europeo",
+            "mensaje": "**43.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 19x27```",
+            "respuesta": "513",
+            "pista": "Kilómetros de distancia entre París y Bruselas",
+            "mensaje": "**513.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 42+57```",
+            "respuesta": "99",
+            "pista": "Porcentaje de pureza del oro de 24 quilates",
+            "mensaje": "**99.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 78-35```",
+            "respuesta": "43",
+            "pista": "Distancia oficial de un maratón en kilómetros",
+            "mensaje": "**43.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 26x31```",
+            "respuesta": "806",
+            "pista": "Aproximadamente los metros de altura del Burj Khalifa",
+            "mensaje": "**806.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 95-49```",
+            "respuesta": "46",
+            "pista": "Cromosomas humanos (incluyendo los sexuales)",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 29x36```",
+            "respuesta": "1044",
+            "pista": "Año en que se estableció el Reino de Portugal",
+            "mensaje": "**1044.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 77/11```",
+            "respuesta": "7",
+            "pista": "Días que dura una semana",
+            "mensaje": "**7.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 47+63```",
+            "respuesta": "110",
+            "pista": "Voltaje doméstico estándar en muchos países",
+            "mensaje": "**110.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 82-38```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 18x24```",
+            "respuesta": "432",
+            "pista": "Horas exactas en 18 días completos",
+            "mensaje": "**432.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 56+74```",
+            "respuesta": "130",
+            "pista": "Velocidad máxima en autopistas españolas (km/h)",
+            "mensaje": "**130.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 89-42```",
+            "respuesta": "47",
+            "pista": "Número de samuráis en la leyenda de los 47 Ronin",
+            "mensaje": "**47.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 35x41```",
+            "respuesta": "1435",
+            "pista": "Año en que Gutenberg inventó la imprenta en Europa",
+            "mensaje": "**1435.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 52+67```",
+            "respuesta": "119",
+            "pista": "Número de emergencia en varios países asiáticos",
+            "mensaje": "**119.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 24x32```",
+            "respuesta": "768",
+            "pista": "Megabytes en 3/4 de un gigabyte",
+            "mensaje": "**768.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 84/6```",
+            "respuesta": "14",
+            "pista": "Días en dos semanas exactas",
+            "mensaje": "**14.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 64+79```",
+            "respuesta": "143",
+            "pista": "Código numérico para 'Te quiero' (En ingles)",
+            "mensaje": "**143.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 93-48```",
+            "respuesta": "45",
+            "pista": "```Revoluciones por minuto de un disco de vinilo",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 31x39```",
+            "respuesta": "1209",
+            "pista": "Año en que se fundó la Universidad de Cambridge",
+            "mensaje": "**1209.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 72/9```",
+            "respuesta": "8",
+            "pista": "Patas de una araña",
+            "mensaje": "**8.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 57+65```",
+            "respuesta": "122",
+            "pista": "Temperatura récord en Australia -1 (Fahrenheit)",
+            "mensaje": "**122.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 88-41```",
+            "respuesta": "47",
+            "pista": "Libros en el canon del Antiguo Testamento protestante",
+            "mensaje": "**47.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 23x28```",
+            "respuesta": "644",
+            "pista": "Año de la batalla de Badr en el calendario islámico",
+            "mensaje": "**644.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 96/8```",
+            "respuesta": "12",
+            "pista": "Meses que tiene un año",
+            "mensaje": "**12.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 39+46```",
+            "respuesta": "85",
+            "pista": "Número atómico del astato (elemento químico)",
+            "mensaje": "**85.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 74-29```",
+            "respuesta": "45",
+            "pista": "Minutos en tres cuartos de hora",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 17x22```",
+            "respuesta": "374",
+            "pista": "Temperatura de ebullición del agua en Fahrenheit",
+            "mensaje": "**374.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 81/9```",
+            "respuesta": "9",
+            "pista": "Jugadores en un equipo de béisbol",
+            "mensaje": "**9.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 45+58```",
+            "respuesta": "103",
+            "pista": "Número atómico del lawrencio (elemento químico)",
+            "mensaje": "**103.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 69-32```",
+            "respuesta": "37",
+            "pista": "Temperatura corporal normal en grados Celsius",
+            "mensaje": "**37.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 30x25```",
+            "respuesta": "750",
+            "pista": "Mililitros en una botella estándar de vino",
+            "mensaje": "**750.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 62+77```",
+            "respuesta": "139",
+            "pista": "Salmo más largo de la Biblia +20 (versículos)",
+            "mensaje": "**139.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 98-54```",
+            "respuesta": "44",
+            "pista": "lo mismo que 2 '2+2' ",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 36x43```",
+            "respuesta": "1548",
+            "pista": "Año en que se publicó el Lazarillo de Tormes",
+            "mensaje": "**1548.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 70/7```",
+            "respuesta": "10",
+            "pista": "Mandamientos bíblicos",
+            "mensaje": "**10.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 49+68```",
+            "respuesta": "117",
+            "pista": "Número atómico del tennessine (elemento químico)",
+            "mensaje": "**117.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 83-37```",
+            "respuesta": "46",
+            "pista": "Cromosomas en la mayoría de células humanas",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 21x29```",
+            "respuesta": "609",
+            "pista": "Año en que Mahoma recibió su primera revelación",
+            "mensaje": "**609.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 90/5```",
+            "respuesta": "18",
+            "pista": "Agujeros en un campo de golf estándar",
+            "mensaje": "**18.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 58+64```",
+            "respuesta": "122",
+            "pista": "Temperatura más alta registrada en Europa +3 (Fahrenheit)",
+            "mensaje": "**122.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 96-38```",
+            "respuesta": "58",
+            "pista": "Número atómico del cerio (elemento químico)",
+            "mensaje": "**58.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 28x33```",
+            "respuesta": "924",
+            "pista": "Año de la fundación de la Universidad de Oxford",
+            "mensaje": "**924.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 53+72```",
+            "respuesta": "125",
+            "pista": "Aniversario de bodas tradicional para 125 años",
+            "mensaje": "**125.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 89-44```",
+            "respuesta": "45",
+            "pista": "Grados de latitud entre el ecuador y los polos",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 37x41```",
+            "respuesta": "1517",
+            "pista": "Año en que Lutero publicó sus 95 tesis",
+            "mensaje": "**1517.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 80/10```",
+            "respuesta": "8",
+            "pista": "Bits en un byte",
+            "mensaje": "**8.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 61+78```",
+            "respuesta": "139",
+            "pista": "Salmo más largo de la Biblia +20 (versículos)",
+            "mensaje": "**139.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 97-53```",
+            "respuesta": "44",
+            "pista": "Cartas en una baraja de póker sin comodines",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 32x27```",
+            "respuesta": "864",
+            "pista": "Segundos en un día divido 100",
+            "mensaje": "**864.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 72/8```",
+            "respuesta": "9",
+            "pista": "Muses en la mitología griega",
+            "mensaje": "**9.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 44+59```",
+            "respuesta": "103",
+            "pista": "Número atómico del lawrencio (elemento químico)",
+            "mensaje": "**103.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 79-36```",
+            "respuesta": "43",
+            "pista": "Distancia oficial de un maratón en kilómetros",
+            "mensaje": "**43.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 25x28```",
+            "respuesta": "700",
+            "pista": "Años que duró la dinastía Tang en China",
+            "mensaje": "**700.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 88/4```",
+            "respuesta": "22",
+            "pista": "Número de cartas en el tarot mayor",
+            "mensaje": "**22.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 46+53```",
+            "respuesta": "99",
+            "pista": "Porcentaje de pureza del oro de 24 quilates",
+            "mensaje": "**99.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 74-38```",
+            "respuesta": "36",
+            "pista": "Número de columnas dóricas en el Partenón",
+            "mensaje": "**36.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 19x23```",
+            "respuesta": "437",
+            "pista": "Año en que Teodosio I prohibió los Juegos Olímpicos",
+            "mensaje": "**437.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 92/4```",
+            "respuesta": "23",
+            "pista": "Pares de cromosomas humanos",
+            "mensaje": "**23.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 65+79```",
+            "respuesta": "144",
+            "pista": "Docenas en una gruesa (medida de cantidad)",
+            "mensaje": "**144.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 86-42```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 27x35```",
+            "respuesta": "945",
+            "pista": "Año en que se fundó el Sacro Imperio Romano Germánico",
+            "mensaje": "**945.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 99/9```",
+            "respuesta": "11",
+            "pista": "Jugadores en un equipo de fútbol americano en campo",
+            "mensaje": "**11.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 58+73```",
+            "respuesta": "131",
+            "pista": "Número atómico del elemento sintético untriunio",
+            "mensaje": "**131.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 84-38```",
+            "respuesta": "46",
+            "pista": "Cromosomas en la mayoría de células humanas",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 31x28```",
+            "respuesta": "868",
+            "pista": "Año en que los vikingos asediaron Constantinopla",
+            "mensaje": "**868.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 55+68```",
+            "respuesta": "123",
+            "pista": "Número de películas de Disney estrenadas en cines hasta 2020",
+            "mensaje": "**123.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 82-35```",
+            "respuesta": "47",
+            "pista": "Número de samuráis en la leyenda de los 47 Ronin",
+            "mensaje": "**47.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 24x19```",
+            "respuesta": "456",
+            "pista": "Año en que los hunos saquearon Roma",
+            "mensaje": "**456.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 93/3```",
+            "respuesta": "31",
+            "pista": "Días en algunos meses del calendario",
+            "mensaje": "**31.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 67+79```",
+            "respuesta": "146",
+            "pista": "Días en 5 meses no bisiestos (promedio)",
+            "mensaje": "**146.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 88-46```",
+            "respuesta": "42",
+            "pista": "Kilómetros de una maratón completa",
+            "mensaje": "**42.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 37x25```",
+            "respuesta": "925",
+            "pista": "Año en que se fundó el Reino de León",
+            "mensaje": "**925.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 72/6```",
+            "respuesta": "12",
+            "pista": "Meses en un año",
+            "mensaje": "**12.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 59+68```",
+            "respuesta": "127",
+            "pista": "Número de países en el mundo sin salida al mar",
+            "mensaje": "**127.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 81-39```",
+            "respuesta": "42",
+            "pista": "Kilómetros de una maratón completa",
+            "mensaje": "**42.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 26x29```",
+            "respuesta": "754",
+            "pista": "Año en que Pipino el Breve fundó la dinastía carolingia",
+            "mensaje": "**754.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 95/5```",
+            "respuesta": "19",
+            "pista": "Años del ciclo metónico (astronomía)",
+            "mensaje": "**19.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 63+78```",
+            "respuesta": "141",
+            "pista": "Número de países miembros de la FIFA en 1930",
+            "mensaje": "**141.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 89-47```",
+            "respuesta": "42",
+            "pista": "Kilómetros de una maratón completa",
+            "mensaje": "**42.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 32x21```",
+            "respuesta": "672",
+            "pista": "Horas en exactamente 4 semanas",
+            "mensaje": "**672.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 75/5```",
+            "respuesta": "15",
+            "pista": "Jugadores en un equipo de rugby (titulares)",
+            "mensaje": "**15.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 48+57```",
+            "respuesta": "105",
+            "pista": "Número de elementos químicos conocidos en 1970",
+            "mensaje": "**105.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 78-29```",
+            "respuesta": "49",
+            "pista": "Estados en Estados Unidos antes de Alaska (contando territorios)",
+            "mensaje": "**49.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 23x18```",
+            "respuesta": "414",
+            "pista": "Año en que los visigodos saquearon Roma",
+            "mensaje": "**414.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 56+69```",
+            "respuesta": "125",
+            "pista": "Aniversario de bodas tradicional para 125 años",
+            "mensaje": "**125.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 92-42```",
+            "respuesta": "50",
+            "pista": "Estados en Estados Unidos",
+            "mensaje": "**50.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 36x24```",
+            "respuesta": "864",
+            "pista": "Horas en exactamente 36 días",
+            "mensaje": "**864.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 100/4```",
+            "respuesta": "25",
+            "pista": "Porcentaje que representa 1/4 del total",
+            "mensaje": "**25.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 71+83```",
+            "respuesta": "154",
+            "pista": "Número de sonetos escritos por Shakespeare",
+            "mensaje": "**154.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 95-56```",
+            "respuesta": "39",
+            "pista": "Libros en el Antiguo Testamento protestante",
+            "mensaje": "**39.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 33x26```",
+            "respuesta": "858",
+            "pista": "Año en que los vikingos fundaron Kiev",
+            "mensaje": "**858.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 87/3```",
+            "respuesta": "29",
+            "pista": "Días en febrero en año bisiesto",
+            "mensaje": "**29.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 43+55```",
+            "respuesta": "98",
+            "pista": "Porcentaje de nitrógeno en el aire",
+            "mensaje": "**98.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 79-34```",
+            "respuesta": "45",
+            "pista": "```Revoluciones por minuto de un disco de vinilo",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 20x27```",
+            "respuesta": "540",
+            "pista": "Segundos en 9 minutos exactos",
+            "mensaje": "**540.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 69+87```",
+            "respuesta": "156",
+            "pista": "Número de episodios de la serie Friends",
+            "mensaje": "**156.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 82-39```",
+            "respuesta": "43",
+            "pista": "Distancia oficial de un maratón en kilómetros",
+            "mensaje": "**43.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 29x38```",
+            "respuesta": "1102",
+            "pista": "Año en que se fundó la Orden de los Templarios",
+            "mensaje": "**1102.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 58+64```",
+            "respuesta": "122",
+            "pista": "Temperatura más alta registrada en Europa +3 (Fahrenheit)",
+            "mensaje": "**122.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 91-54```",
+            "respuesta": "37",
+            "pista": "Temperatura corporal normal en grados Celsius",
+            "mensaje": "**37.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 41x28```",
+            "respuesta": "1148",
+            "pista": "Año en que Saladino reconquistó Jerusalén",
+            "mensaje": "**1148.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 80/10```",
+            "respuesta": "8",
+            "pista": "Bits en un byte",
+            "mensaje": "**8.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 54+68```",
+            "respuesta": "122",
+            "pista": "Velocidad máxima en km/h en autopistas de Corea del Sur",
+            "mensaje": "**122.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 76-32```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 26x39```",
+            "respuesta": "1014",
+            "pista": "Año en que Macbeth se convirtió en rey de Escocia",
+            "mensaje": "**1014.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 69/3```",
+            "respuesta": "23",
+            "pista": "Pares de cromosomas humanos",
+            "mensaje": "**23.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 77+88```",
+            "respuesta": "165",
+            "pista": "Minutos en 2 horas y 45 minutos",
+            "mensaje": "**165.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 96-49```",
+            "respuesta": "47",
+            "pista": "Número de samuráis en la leyenda de los 47 Ronin",
+            "mensaje": "**47.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 37x45```",
+            "respuesta": "1665",
+            "pista": "Año en que Newton descubrió la ley de la gravitación",
+            "mensaje": "**1665.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 49+57```",
+            "respuesta": "106",
+            "pista": "Elementos químicos conocidos en 1970",
+            "mensaje": "**106.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 82-38```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 21x34```",
+            "respuesta": "714",
+            "pista": "Año en que los musulmanes conquistaron Barcelona",
+            "mensaje": "**714.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 68+78```",
+            "respuesta": "146",
+            "pista": "Días en 5 meses no bisiestos (promedio)",
+            "mensaje": "**146.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 95-37```",
+            "respuesta": "58",
+            "pista": "Número atómico del cerio (elemento químico)",
+            "mensaje": "**58.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 29x42```",
+            "respuesta": "1218",
+            "pista": "Año en que se fundó la Universidad de Salamanca",
+            "mensaje": "**1218.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 84/7```",
+            "respuesta": "12",
+            "pista": "Meses en un año",
+            "mensaje": "**12.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 53+79```",
+            "respuesta": "132",
+            "pista": "Minutos en 2 horas y 12 minutos",
+            "mensaje": "**132.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 67-29```",
+            "respuesta": "38",
+            "pista": "Grados Fahrenheit para la temperatura corporal",
+            "mensaje": "**38.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 22x36```",
+            "respuesta": "792",
+            "pista": "DCCXCII en números romanos",
+            "mensaje": "**792.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 71+84```",
+            "respuesta": "155",
+            "pista": "Número de países miembros de la ONU en 1960",
+            "mensaje": "**155.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 99-58```",
+            "respuesta": "41",
+            "pista": "Kilómetros en una maratón (apróximadamente)",
+            "mensaje": "**41.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 45x19```",
+            "respuesta": "855",
+            "pista": "Año en que los vikingos descubrieron Islandia",
+            "mensaje": "**855.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 78/6```",
+            "respuesta": "13",
+            "pista": "Colonias originales de Estados Unidos",
+            "mensaje": "**13.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 59+68```",
+            "respuesta": "127",
+            "pista": "Número de países en el mundo sin salida al mar",
+            "mensaje": "**127.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 86-42```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 32x27```",
+            "respuesta": "864",
+            "pista": "Segundos en un día divido 100",
+            "mensaje": "**864.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 108/9```",
+            "respuesta": "12",
+            "pista": "Meses en un año",
+            "mensaje": "**12.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 42+56```",
+            "respuesta": "98",
+            "pista": "Porcentaje de nitrógeno en el aire",
+            "mensaje": "**98.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 79-33```",
+            "respuesta": "46",
+            "pista": "Cromosomas en la mayoría de células humanas",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 16x15```",
+            "respuesta": "240",
+            "pista": "Minutos en 4 horas exactas",
+            "mensaje": "**240.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 51+63```",
+            "respuesta": "114",
+            "pista": "Elementos químicos conocidos actualmente",
+            "mensaje": "**114.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 93-47```",
+            "respuesta": "46",
+            "pista": "Cromosomas en la mayoría de células humanas",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 28x19```",
+            "respuesta": "532",
+            "pista": "Año en que Justiniano I cerró la Academia de Platón",
+            "mensaje": "**532.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 77/7```",
+            "respuesta": "11",
+            "pista": "Jugadores en un equipo de fútbol",
+            "mensaje": "**11.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 36+49```",
+            "respuesta": "85",
+            "pista": "Número atómico del astato (elemento químico)",
+            "mensaje": "**85.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 68-24```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 21x16```",
+            "respuesta": "336",
+            "pista": "Horas en exactamente 2 semanas",
+            "mensaje": "**336.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 80/8```",
+            "respuesta": "10",
+            "pista": "Dedos en ambas manos",
+            "mensaje": "**10.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 57+68```",
+            "respuesta": "125",
+            "pista": "Aniversario de bodas tradicional para 125 años",
+            "mensaje": "**125.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 88-39```",
+            "respuesta": "49",
+            "pista": "Estados en Estados Unidos antes de Alaska (contando territorios)",
+            "mensaje": "**49.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 33x27```",
+            "respuesta": "891",
+            "pista": "Año en que los vikingos establecieron el Ducado de Normandía",
+            "mensaje": "**891.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 96/6```",
+            "respuesta": "16",
+            "pista": "Onzas en una libra",
+            "mensaje": "**16.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 62+58```",
+            "respuesta": "120",
+            "pista": "Años en la vida bíblica de Moisés",
+            "mensaje": "**120.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 74-29```",
+            "respuesta": "45",
+            "pista": "```Revoluciones por minuto de un disco de vinilo",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 25x18```",
+            "respuesta": "450",
+            "pista": "Grados en 2.5 pi radianes (matemáticamente)",
+            "mensaje": "**450.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 49+67```",
+            "respuesta": "116",
+            "pista": "Elementos químicos conocidos en 1900",
+            "mensaje": "**116.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 82-38```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 31x24```",
+            "respuesta": "744",
+            "pista": "Horas en exactamente 31 días",
+            "mensaje": "**744.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 90/6```",
+            "respuesta": "15",
+            "pista": "Jugadores en un equipo de rugby (titulares)",
+            "mensaje": "**15.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 14x18```",
+            "respuesta": "252",
+            "pista": "Días en 36 semanas exactas",
+            "mensaje": "**252.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 76/4```",
+            "respuesta": "19",
+            "pista": "Años del ciclo metónico (astronomía)",
+            "mensaje": "**19.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 33+55```",
+            "respuesta": "88",
+            "pista": "Teclas en un piano estándar",
+            "mensaje": "**88.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 92-47```",
+            "respuesta": "45",
+            "pista": "```Revoluciones por minuto de un disco de vinilo",
+            "mensaje": "**45.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 29x31```",
+            "respuesta": "899",
+            "pista": "Año en que Alfredo el Grande se convirtió en rey de Wessex",
+            "mensaje": "**899.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 68/4```",
+            "respuesta": "17",
+            "pista": "Artículos en la Constitución de EE.UU. original",
+            "mensaje": "**17.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 43+59```",
+            "respuesta": "102",
+            "pista": "Número atómico del nobelio (elemento químico)",
+            "mensaje": "**102.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 78-36```",
+            "respuesta": "42",
+            "pista": "Kilómetros de una maratón completa",
+            "mensaje": "**42.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 21x27```",
+            "respuesta": "567",
+            "pista": "Año en que los lombardos conquistaron Italia",
+            "mensaje": "**567.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 56/7```",
+            "respuesta": "8",
+            "pista": "Bits en un byte",
+            "mensaje": "**8.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 82+47```",
+            "respuesta": "129",
+            "pista": "Días en 4 meses y 1 semana (promedio)",
+            "mensaje": "**129.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 64-28```",
+            "respuesta": "36",
+            "pista": "Número de columnas dóricas en el Partenón",
+            "mensaje": "**36.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 36x42```",
+            "respuesta": "1512",
+            "pista": "Año en que Miguel Ángel pintó la Capilla Sixtina",
+            "mensaje": "**1512.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 49/7```",
+            "respuesta": "7",
+            "pista": "Días de la semana",
+            "mensaje": "**7.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 55+63```",
+            "respuesta": "118",
+            "pista": "Elementos químicos en la tabla periódica (2023)",
+            "mensaje": "**118.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 76-28```",
+            "respuesta": "48",
+            "pista": "Estados contiguos de EE.UU.",
+            "mensaje": "**48.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 27x18```",
+            "respuesta": "486",
+            "pista": "Año en que los ostrogodos conquistaron Italia",
+            "mensaje": "**486.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 30+42```",
+            "respuesta": "72",
+            "pista": "Años que duró el reinado de Luis XIV de Francia",
+            "mensaje": "**72.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 38+49```",
+            "respuesta": "87",
+            "pista": "Número atómico del francio (elemento químico)",
+            "mensaje": "**87.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 72-28```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 22x35```",
+            "respuesta": "770",
+            "pista": "Año en que Carlomagno conquistó Lombardía",
+            "mensaje": "**770.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 56+67```",
+            "respuesta": "123",
+            "pista": "Número de películas de Disney estrenadas en cines hasta 2020",
+            "mensaje": "**123.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 83-39```",
+            "respuesta": "44",
+            "pista": "Presidentes de EE.UU. antes de Obama",
+            "mensaje": "**44.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 18x15```",
+            "respuesta": "270",
+            "pista": "Grados en tres cuartos de círculo",
+            "mensaje": "**270.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 47+59```",
+            "respuesta": "106",
+            "pista": "Elementos químicos conocidos en 1970",
+            "mensaje": "**106.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 69-28```",
+            "respuesta": "41",
+            "pista": "Kilómetros en una maratón (apróximadamente)",
+            "mensaje": "**41.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 31x26```",
+            "respuesta": "806",
+            "pista": "Aproximadamente los metros de altura del Burj Khalifa",
+            "mensaje": "**806.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente suma: 63+58```",
+            "respuesta": "121",
+            "pista": "Número de episodios de Los Simpson en sus primeras 8 temporadas",
+            "mensaje": "**121.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente resta: 88-42```",
+            "respuesta": "46",
+            "pista": "Cromosomas en la mayoría de células humanas",
+            "mensaje": "**46.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente multiplicación: 25x17```",
+            "respuesta": "425",
+            "pista": "Año en que los hunos invadieron el Imperio Romano",
+            "mensaje": "**425.**"
+        },
+        {
+            "texto": "```Resuelve la siguiente división: 54/6```",
+            "respuesta": "9",
+            "pista": "Planetas en el sistema solar (incluyendo Plutón históricamente)",
+            "mensaje": "**9.**"
+        }
+    ]
+}

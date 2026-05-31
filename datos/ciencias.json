@@ -1,0 +1,856 @@
+{
+    "preguntas": [
+        {
+            "texto": "¿A que elemento corresponde el simbolo **H**?",
+            "respuesta": ["Hidrógeno", "Hidrogeno"],
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: H________",
+            "mensaje": "**Hidrógeno.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **He**?",
+            "respuesta": "Helio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: H____",
+            "mensaje": "**Helio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Li**?",
+            "respuesta": "Litio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: L____",
+            "mensaje": "**Litio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Be**?",
+            "respuesta": "Berilio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: B______",
+            "mensaje": "**Berilio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **B**?",
+            "respuesta": "Boro",
+            "imagen": "",
+            "pista": "Tiene 4 letras y empieza por: B___",
+            "mensaje": "**Boro.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **C**?",
+            "respuesta": "Carbono",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Carbono.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **N**?",
+            "respuesta": ["Nitrógeno", "Nitrogeno"],
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: N________",
+            "mensaje": "**Nitrógeno.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **O**?",
+            "respuesta": ["Oxígeno","Oxigeno"],
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: O______",
+            "mensaje": "**Oxígeno.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **F**?",
+            "respuesta": ["Flúor","Fluor"],
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: F____",
+            "mensaje": "**Flúor.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ne**?",
+            "respuesta": ["Neón", "Neon"],
+            "imagen": "",
+            "pista": "Tiene 4 letras y empieza por: N___",
+            "mensaje": "**Neón.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Na**?",
+            "respuesta": "Sodio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: S____",
+            "mensaje": "**Sodio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Mg**?",
+            "respuesta": "Magnesio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Magnesio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Al**?",
+            "respuesta": "Aluminio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: A_______",
+            "mensaje": "**Aluminio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Si**?",
+            "respuesta": "Silicio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: S______",
+            "mensaje": "**Silicio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **P**?",
+            "respuesta": ["Fósforo", "Fosforo"],
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: F______",
+            "mensaje": "**Fósforo.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **S**?",
+            "respuesta": "Azufre",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: A_____",
+            "mensaje": "**Azufre.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cl**?",
+            "respuesta": "Cloro",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cloro.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ar**?",
+            "respuesta": ["Argón","Argon"],
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: A____",
+            "mensaje": "**Argón.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **K**?",
+            "respuesta": "Potasio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: P______",
+            "mensaje": "**Potasio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ca**?",
+            "respuesta": "Calcio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: C_____",
+            "mensaje": "**Calcio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ti**?",
+            "respuesta": "Titanio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: T______",
+            "mensaje": "**Titanio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Sc**?",
+            "respuesta": "Escandio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: E_______",
+            "mensaje": "**Escandio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **V**?",
+            "respuesta": "Vanadio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: V______",
+            "mensaje": "**Vanadio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cr**?",
+            "respuesta": "Cromo",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cromo.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Mn**?",
+            "respuesta": "Manganeso",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: M________",
+            "mensaje": "**Manganeso.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Fe**?",
+            "respuesta": "Hierro",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: H_____",
+            "mensaje": "**Hierro.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Co**?",
+            "respuesta": "Cobalto",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Cobalto.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ni**?",
+            "respuesta": ["Níquel","Niquel"],
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: N_____",
+            "mensaje": "**Níquel.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cu**?",
+            "respuesta": "Cobre",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cobre.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿¿A que elemento corresponde el simbolo **Tc**?",
+            "respuesta": "Tecnecio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: T_______",
+            "mensaje": "**Tecnecio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ru**?",
+            "respuesta": "Rutenio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: R______",
+            "mensaje": "**Rutenio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Rh**?",
+            "respuesta": "Rodio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: R____",
+            "mensaje": "**Rodio.**",
+            "imagenRC": ""
+        },
+
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pd**?",
+            "respuesta": "Paladio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: P______",
+            "mensaje": "**Paladio.**",
+            "imagenRC": ""
+        },
+
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ag**?",
+            "respuesta": "Plata",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: P____",
+            "mensaje": "**Plata.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cd**?",
+            "respuesta": "Cadmio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cadmio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **In**?",
+            "respuesta": "Indio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: I____",
+            "mensaje": "**Indio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Sn**?",
+            "respuesta": "Estaño",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: E_____",
+            "mensaje": "**Estaño.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Sb**?",
+            "respuesta": "Antimonio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: A________",
+            "mensaje": "**Antimonio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Te**?",
+            "respuesta": "Telurio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: T______",
+            "mensaje": "**Telurio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **I**?",
+            "respuesta": "Yodo",
+            "imagen": "",
+            "pista": "Tiene 4 letras y empieza por: Y___",
+            "mensaje": "**Yodo.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Xe**?",
+            "respuesta": "Xenón",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: X____",
+            "mensaje": "**Xenón.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cs**?",
+            "respuesta": "Cesio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cesio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ba**?",
+            "respuesta": "Bario",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: B____",
+            "mensaje": "**Bario.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **La**?",
+            "respuesta": "Lantano",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: L______",
+            "mensaje": "**Lantano.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ce**?",
+            "respuesta": "Cerio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Cerio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pr**?",
+            "respuesta": "Praseodimio",
+            "imagen": "",
+            "pista": "Tiene 11 letras y empieza por: P__________",
+            "mensaje": "**Praseodimio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Nd**?",
+            "respuesta": "Neodimio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: N_______",
+            "mensaje": "**Neodimio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Mo**?",
+            "respuesta": "Molibdeno",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: M________",
+            "mensaje": "**Molibdeno.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pm**?",
+            "respuesta": "Prometio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: P_______",
+            "mensaje": "**Prometio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Zr**?",
+            "respuesta": "Circonio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: C_______",
+            "mensaje": "**Circonio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Sm**?",
+            "respuesta": "Samario",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: S______",
+            "mensaje": "**Samario.**",
+            "imagenRC": ""
+        }
+        ,{
+            "texto": "¿A que elemento corresponde el simbolo **Eu**?",
+            "respuesta": "Europio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Europio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Gd**?",
+            "respuesta": "Gadolinio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: G________",
+            "mensaje": "**Gadolinio.**",
+            "imagenRC": ""
+        }
+        ,{
+            "texto": "¿A que elemento corresponde el simbolo **Tb**?",
+            "respuesta": "Terbio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: T_____",
+            "mensaje": "**Terbio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Dy**?",
+            "respuesta": "Disprosio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: D________",
+            "mensaje": "**Disprosio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ho**?",
+            "respuesta": "Holmio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: H_____",
+            "mensaje": "**Holmio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Er**?",
+            "respuesta": "Erbio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: E____",
+            "mensaje": "**Erbio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Tm**?",
+            "respuesta": "Tulio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: T____",
+            "mensaje": "**Tulio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Yb**?",
+            "respuesta": "Iterbio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: I______",
+            "mensaje": "**Iterbio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Lu**?",
+            "respuesta": "Lutecio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: L______",
+            "mensaje": "**Lutecio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Hf**?",
+            "respuesta": "Hafnio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: H_____",
+            "mensaje": "**Hafnio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ta**?",
+            "respuesta": ["Tántalo","Tantalo"],
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: T______",
+            "mensaje": "**Tántalo.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Re**?",
+            "respuesta": "Renio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: R____",
+            "mensaje": "**Renio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Os**?",
+            "respuesta": "Osmio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: O____",
+            "mensaje": "**Osmio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ir**?",
+            "respuesta": "Iridio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: I_____",
+            "mensaje": "**Iridio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **PT**?",
+            "respuesta": "Platino",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: P______",
+            "mensaje": "**Platino.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Au**?",
+            "respuesta": "Oro",
+            "imagen": "",
+            "pista": "Tiene 3 letras y empieza por: O__",
+            "mensaje": "**Oro.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Hg**?",
+            "respuesta": "Mercurio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Mercurio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Tl**?",
+            "respuesta": "Talio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: T____",
+            "mensaje": "**Talio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pb**?",
+            "respuesta": "Plomo",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: P____",
+            "mensaje": "**Plomo.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Bi**?",
+            "respuesta": "Bismuto",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: B______",
+            "mensaje": "**Bismuto.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Po**?",
+            "respuesta": "Polonio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: P______",
+            "mensaje": "**Polonio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Rn**?",
+            "respuesta": ["Radón","Radon"],
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: R____",
+            "mensaje": "**Radón.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **At**?",
+            "respuesta": "Astato",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: A_____",
+            "mensaje": "**Astato.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Fr**?",
+            "respuesta": "Francio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: F______",
+            "mensaje": "**Francio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ra**?",
+            "respuesta": "Radio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: R____",
+            "mensaje": "**Radio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ac**?",
+            "respuesta": "Actinio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Actinio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Th**?",
+            "respuesta": "Torio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: T____",
+            "mensaje": "**Torio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pa**?",
+            "respuesta": "Protactinio",
+            "imagen": "",
+            "pista": "Tiene 11 letras y empieza por: P__________",
+            "mensaje": "**Protactinio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **U**?",
+            "respuesta": "Uranio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: U_____",
+            "mensaje": "**Uranio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Np**?",
+            "respuesta": "Neptunio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: N_______",
+            "mensaje": "**Neptunio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Pu**?",
+            "respuesta": "Plutonio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: P_______",
+            "mensaje": "**Plutonio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Am**?",
+            "respuesta": "Americio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: A_______",
+            "mensaje": "**Americio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cm**?",
+            "respuesta": "Curio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Curio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Bk**?",
+            "respuesta": "Berkelio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: B_______",
+            "mensaje": "**Berkelio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cf**?",
+            "respuesta": "Californio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: C_________",
+            "mensaje": "**Californio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Es**?",
+            "respuesta": "Einstenio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: E________",
+            "mensaje": "**Einstenio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Fm**?",
+            "respuesta": "Fermio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: F_____",
+            "mensaje": "**Fermio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Md**?",
+            "respuesta": "Mendelevio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Mendelevio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **No**?",
+            "respuesta": "Nobelio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: N______",
+            "mensaje": "**Nobelio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Lr**?",
+            "respuesta": "Lawrencio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: L________",
+            "mensaje": "**Lawrencio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Rf**?",
+            "respuesta": "Rutherfordio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: R___________",
+            "mensaje": "**Rutherfordio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Db**?",
+            "respuesta": "Dubnio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: D_____",
+            "mensaje": "**Dubnio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Sg**?",
+            "respuesta": "Seaborgio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: S________",
+            "mensaje": "**Seaborgio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Bh**?",
+            "respuesta": "Bohrio",
+            "imagen": "",
+            "pista": "Tiene 6 letras y empieza por: B_____",
+            "mensaje": "**Bohrio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Hs**?",
+            "respuesta": "Hasio",
+            "imagen": "",
+            "pista": "Tiene 5 letras y empieza por: H____",
+            "mensaje": "**Hasio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Mt**?",
+            "respuesta": "Meitnerio",
+            "imagen": "",
+            "pista": "Tiene 9 letras y empieza por: M________",
+            "mensaje": "**Meitnerio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ds**?",
+            "respuesta": "Darmstatio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: D_________",
+            "mensaje": "**Darmstatio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Rg**?",
+            "respuesta": "Roentgenio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: R_________",
+            "mensaje": "**Roentgenio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Cn**?",
+            "respuesta": "Copernicio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: C_________",
+            "mensaje": "**Copernicio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Nh**?",
+            "respuesta": "Nihonio",
+            "imagen": "",
+            "pista": "Tiene 7 letras y empieza por: N______",
+            "mensaje": "**Nihonio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Fl**?",
+            "respuesta": "Flerovio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: F_______",
+            "mensaje": "**Flerovio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Mc**?",
+            "respuesta": "Moscovio",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Moscovio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Lv**?",
+            "respuesta": "Livermorio",
+            "imagen": "",
+            "pista": "Tiene 10 letras y empieza por: L_________",
+            "mensaje": "**Livermorio.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Ts**?",
+            "respuesta": "Teneso",
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: T_____",
+            "mensaje": "**Teneso.**",
+            "imagenRC": ""
+        },
+        {
+            "texto": "¿A que elemento corresponde el simbolo **Og**?",
+            "respuesta": ["Oganesón","Oganeson"],
+            "imagen": "",
+            "pista": "Tiene 8 letras y empieza por: O_______",
+            "mensaje": "**Oganesón.**",
+            "imagenRC": ""
+        }
+    ]
+
+}
+

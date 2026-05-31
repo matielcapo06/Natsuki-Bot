@@ -1,0 +1,814 @@
+{
+    "preguntas": [
+        {
+            "texto": "¿En qué año ocurrió la independencia de Argentina?",
+            "respuesta": "1816",
+            "imagen": "",
+            "pista": "Hexadecimal: 718",
+            "mensaje": "**1816**. Argentina se independizó de España el 9 de julio del año 1816.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ar.webp"
+        },
+            
+        {
+            "texto": "¿En qué año ocurrió la independencia de Australia?",
+            "respuesta": "1901",
+            "imagen": "",
+            "pista": "Hexadecimal: 76D",
+            "mensaje": "**1901**. Australia se independizó del Reino Unido el 1 de enero del año 1901.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/au.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Bolivia?",
+            "respuesta": "1825",
+            "imagen": "",
+            "pista": "Hexadecimal: 721",
+            "mensaje": "**1825**. Bolivia se independizó de España el 6 de agosto del año 1825.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bo.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Brasil?",
+            "respuesta": "1822",
+            "imagen": "",
+            "pista": "Hexadecimal: 71E",
+            "mensaje": "**1822**. Brasil se independizó de Portugal el 7 de septiembre del año 1822.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/br.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Canadá?",
+            "respuesta": "1867",
+            "imagen": "",
+            "pista": "Hexadecimal: 74B",
+            "mensaje": "**1867**. Canadá se independizó del Reino Unido el 1 de julio del año 1867.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ca.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Chile?",
+            "respuesta": "1818",
+            "imagen": "",
+            "pista": "Hexadecimal: 71A",
+            "mensaje": "**1818**. Chile se independizó de España el 12 de febrero del año 1818.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cl.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Colombia?",
+            "respuesta": "1810",
+            "imagen": "",
+            "pista": "Hexadecimal: 712",
+            "mensaje": "**1810**. Colombia se independizó de España el 20 de julio del año 1810.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/co.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Corea del Sur?",
+            "respuesta": "1945",
+            "imagen": "",
+            "pista": "Hexadecimal: 799",
+            "mensaje": "**1945**. Corea del sur se independizó de Japón. el 15 de agosto del año 1945.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kr.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Costa Rica?",
+            "respuesta": "1821",
+            "imagen": "",
+            "pista": "Hexadecimal: 71D",
+            "mensaje": "**1821**. Costa Rica se independizó de España el 15 de septiembre del año 1821.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cr.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Cuba?",
+            "respuesta": "1868",
+            "imagen": "",
+            "pista": "Hexadecimal: 74C",
+            "mensaje": "**1868**. Cuba se independizó de España el 10 de octubre del año 1868.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cu.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Ecuador?",
+            "respuesta": "1809",
+            "imagen": "",
+            "pista": "Hexadecimal: 711",
+            "mensaje": "**1809**. Ecuador se independizó de España el 10 de agosto del año 1809.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ec.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de El Salvador?",
+            "respuesta": "1821",
+            "imagen": "",
+            "pista": "Hexadecimal: 71D",
+            "mensaje": "**1821**. El Salvador se independizó de España el 15 de septiembre del año 1821.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sv.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Estados Unidos?",
+            "respuesta": "1776",
+            "imagen": "",
+            "pista": "Hexadecimal: 6F0",
+            "mensaje": "**1776**. Estados unidos se independizó del Reino Unido el 4 de julio del año 1776.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/us.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Francia?",
+            "respuesta": "1789",
+            "imagen": "",
+            "pista": "Hexadecimal: 6FD",
+            "mensaje": "**1789**. Francia abolió la Monarquía el 14 de julio del año 1789.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fr.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Grecia?",
+            "respuesta": "1821",
+            "imagen": "",
+            "pista": "Hexadecimal: 71D",
+            "mensaje": "**1821**. Grecia se independizó del Imperio otomano el 25 de marzo del año 1821.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gr.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Guatemala?",
+            "respuesta": "1821",
+            "imagen": "",
+            "pista": "Hexadecimal: 71D",
+            "mensaje": "**1821**. Guatemala se independizó de España el 15 de septiembre del año 1821.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gt.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de India?",
+            "respuesta": "1947",
+            "imagen": "",
+            "pista": "Hexadecimal: 79B",
+            "mensaje": "**1947**. India se independizó del Reino Unido el 15 de agosto del año 1947.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/in.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de México?",
+            "respuesta": "1810",
+            "imagen": "",
+            "pista": "Hexadecimal: 712",
+            "mensaje": "**1810**. México se independizó de España el 16 de septiembre del año 1810.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mx.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Nueva Zelanda?",
+            "respuesta": "1907",
+            "imagen": "",
+            "pista": "Hexadecimal: 773",
+            "mensaje": "**1907**. Nueva Zelanda se independizó del Reino Unido el 1 de julio del año 1907.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nz.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Paraguay?",
+            "respuesta": "1811",
+            "imagen": "",
+            "pista": "Hexadecimal: 713",
+            "mensaje": "**1811**. Paraguay se independizó de España entre los dias 14 y 15 de mayo del año 1811.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/py.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Perú?",
+            "respuesta": "1821",
+            "imagen": "",
+            "pista": "Hexadecimal: 71D",
+            "mensaje": "**1821**. Perú se independizó de España el 28 de julio del año 1821.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pe.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Portugal?",
+            "respuesta": "1640",
+            "imagen": "",
+            "pista": "Hexadecimal: 668",
+            "mensaje": "**1640**. Portugal se independizó de España el 1 de diciembre del año 1640.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pt.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Rusia?",
+            "respuesta": "1991",
+            "imagen": "",
+            "pista": "Hexadecimal: 7C7",
+            "mensaje": "**1991**. Rusia se independizó de la Unión Soviética el 25 de diciembre del año 1991.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ru.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Ucrania?",
+            "respuesta": "1991",
+            "imagen": "",
+            "pista": "Hexadecimal: 7C7",
+            "mensaje": "**1991**. Ucrania se independizó de la Unión Soviética el 24 de agosto del año 1991.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ua.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Uruguay?",
+            "respuesta": "1828",
+            "imagen": "",
+            "pista": "Hexadecimal: 724",
+            "mensaje": "**1828**. Uruguay se independizó de las Provincias Unidas del Río de la Plata el 25 de agosto del año 1828.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/uy.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Venezuela?",
+            "respuesta": "1811",
+            "imagen": "",
+            "pista": "Hexadecimal: 713",
+            "mensaje": "**1811**. Venezuela se independizó de España el 5 de julio del año 1811.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ve.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió la independencia de Vietnam?",
+            "respuesta": "1945",
+            "imagen": "",
+            "pista": "Hexadecimal: 799",
+            "mensaje": "**1945**. Vietnam se independizó de Francia el 2 de septiembre del año 1945.",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/vn.webp"
+        },
+        {
+            "texto": "¿En qué año ocurrió el atentado del 11-S?",
+            "respuesta": "2001",
+            "imagen": "",
+            "pista": "Hexadecimal: 7D1",
+            "mensaje": "**2001**. Los atentados del 11-S ocurrieron el 11 de septiembre del año 2001.",
+            "imagenRC": "https://imagenes.elpais.com/resizer/v2/7KOINECPWZBWNBL4VF6N5V6Y2M.jpg?auth=582013a843a58593dcfd0981bdfa641b5bacf0f9283fafc987f667ab86ca2742&width=1200"
+        },
+        {
+            "texto": "¿En qué año ocurrió la destrucción del Muro de Berlín?",
+            "respuesta": "1989",
+            "imagen": "",
+            "pista": "Hexadecimal: 7C5",
+            "mensaje": "**1989**. El Muro de Berlín fue derribado a partir del 9 de noviembre de 1989.",
+            "imagenRC": "https://i0.wp.com/laciudadrevista.com/wp-content/uploads/2018/11/muro-de-berlin-caida-nov-2018.jpg?fit=1024%2C645&ssl=1"
+        },
+
+        {
+            "texto": "¿En qué año ocurrió el inicio de la segunda guerra mundial?",
+            "respuesta": "1939",
+            "imagen": "",
+            "pista": "Hexadecimal: 793",
+            "mensaje": "**1939**. La segunda guerra mundial comenzó en el año 1939.",
+            "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2018/02/28/paracaidistas-aliados-con-una-bandera-nazi__1280x1046.jpg"
+
+        },
+
+        {
+            "texto": "¿En qué año ocurrió el final de la segunda guerra mundial?",
+            "respuesta": "1945",
+            "imagen": "",
+            "pista": "Hexadecimal: 799",
+            "mensaje": "**1945**. La segunda guerra mundial acabó en el año 1945.",
+            "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2018/02/28/paracaidistas-aliados-con-una-bandera-nazi__1280x1046.jpg"
+        },
+        {
+            "texto": "¿En qué año ocurrió el inicio de la primera guerra mundial?",
+            "respuesta": "1914",
+            "imagen": "",
+            "pista": "Hexadecimal: 77A",
+            "mensaje": "**1914**. La primera guerra mundial comenzó en el año 1914.",
+            "imagenRC": "https://humanidades.com/wp-content/uploads/2017/05/pgm-e1568056333495-800x416.jpg"
+        },
+        {
+            "texto": "¿En qué año ocurrió el final de la primera guerra mundial?",
+            "respuesta": "1918",
+            "imagen": "",
+            "pista": "Hexadecimal: 77E",
+            "mensaje": "**1918**. La primera guerra mundial acabó en el año 1918.",
+            "imagenRC": "https://humanidades.com/wp-content/uploads/2017/05/pgm-e1568056333495-800x416.jpg"
+        },
+        {
+            "texto": "¿En qué año ocurrió el inicio de la Guerra Fría?",
+            "respuesta": "1947",
+            "imagen": "",
+            "pista": "Hexadecimal: 79B",
+            "mensaje": "**1947**. La Guerra Fría comenzó en el año 1947.",
+            "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_alliances_mid-1975.svg/1200px-Cold_War_alliances_mid-1975.svg.png"
+        },
+        {
+            "texto": "¿En qué año ocurrió el final de la Guerra Fría?",
+            "respuesta": "1991",
+            "imagen": "",
+            "pista": "Hexadecimal: 7C7",
+            "mensaje": "**1991**. La Guerra Fría acabó en el año 1991.",
+            "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_alliances_mid-1975.svg/1200px-Cold_War_alliances_mid-1975.svg.png"
+
+        },
+        {
+            "texto": "¿En qué año ocurrió la muerte de Benito Mussolini?",
+            "respuesta": "1945",
+            "imagen": "",
+            "pista": "Hexadecimal: 799",
+            "mensaje": "**1945**. Benito Mussolini murió el 28 de abril de 1945.",
+            "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Benito_Mussolini_colored.jpg/640px-Benito_Mussolini_colored.jpg"
+
+        },
+        {
+            "texto": "¿En qué año ocurrió la muerte de Adolf Hitler?",
+            "respuesta": "1945",
+            "imagen": "",
+            "pista": "Hexadecimal: 799",
+            "mensaje": "**1945**. Adolf Hitler murió el 30 de abril de 1945.",
+            "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Adolf_Hitler_cropped_restored.jpg/250px-Adolf_Hitler_cropped_restored.jpg"
+
+        },
+        {
+            "texto": "¿En qué año ocurrió la pandemia del COVID-19?",
+            "respuesta": "2020",
+            "imagen": "",
+            "pista": "Hexadecimal: 7E4",
+            "mensaje": "**2020**. La pandemia del COVID-19 comenzó en el año 2020.",
+            "imagenRC": "https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-479v.jpg?sfvrsn=4dba955c_19%20479w"
+        },
+        {
+            "texto": "¿En qué año ocurrió la llegada a la luna?",
+            "respuesta": "1969",
+            "imagen": "",
+            "pista": "Hexadecimal: 7B1",
+            "mensaje": "**1969**. La llegada a la luna ocurrió el 20 de julio del año 1969.",
+            "imagenRC": "https://content.nationalgeographic.com.es/medio/2016/07/20/apolo-bandera-astronautas_2701a04d.jpg"
+
+        },
+        {
+            "texto": "¿En qué año ocurrió la colonización de America?",
+            "respuesta": "1492",
+            "imagen": "",
+            "pista": "Hexadecimal: 5D4",
+            "mensaje": "**1492**. La colonización de America ocurrió el 12 de octubre del año 1492.",
+            "imagenRC": "https://humanidades.com/wp-content/uploads/2017/02/clonizacion-de-america-1-e1561948261295.jpg"
+
+        },
+        {
+      "texto": "¿En qué año ocurrió la independencia de Argelia?",
+      "respuesta": "1962",
+      "imagen": "",
+      "pista": "Hexadecimal: 7AA",
+      "mensaje": "**1962**. Argelia se independizó de Francia el 5 de julio de 1962.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/dz.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Pakistán?",
+      "respuesta": "1947",
+      "imagen": "",
+      "pista": "Hexadecimal: 79B",
+      "mensaje": "**1947**. Pakistán se independizó del Reino Unido el 14 de agosto de 1947.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pk.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Indonesia?",
+      "respuesta": "1945",
+      "imagen": "",
+      "pista": "Hexadecimal: 799",
+      "mensaje": "**1945**. Indonesia proclamó su independencia de los Países Bajos el 17 de agosto de 1945.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/id.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Filipinas?",
+      "respuesta": "1946",
+      "imagen": "",
+      "pista": "Hexadecimal: 79A",
+      "mensaje": "**1946**. Filipinas obtuvo la independencia de Estados Unidos el 4 de julio de 1946.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ph.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Marruecos?",
+      "respuesta": "1956",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A4",
+      "mensaje": "**1956**. Marruecos se independizó de Francia el 2 de marzo de 1956.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ma.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Túnez?",
+      "respuesta": "1956",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A4",
+      "mensaje": "**1956**. Túnez se independizó de Francia el 20 de marzo de 1956.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tn.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Ghana?",
+      "respuesta": "1957",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A5",
+      "mensaje": "**1957**. Ghana se independizó del Reino Unido el 6 de marzo de 1957.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gh.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Nigeria?",
+      "respuesta": "1960",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A8",
+      "mensaje": "**1960**. Nigeria se independizó del Reino Unido el 1 de octubre de 1960.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ng.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Kenia?",
+      "respuesta": "1963",
+      "imagen": "",
+      "pista": "Hexadecimal: 7AB",
+      "mensaje": "**1963**. Kenia se independizó del Reino Unido el 12 de diciembre de 1963.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ke.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Malasia?",
+      "respuesta": "1957",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A5",
+      "mensaje": "**1957**. Malasia se independizó del Reino Unido el 31 de agosto de 1957.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/my.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Jordania?",
+      "respuesta": "1946",
+      "imagen": "",
+      "pista": "Hexadecimal: 79A",
+      "mensaje": "**1946**. Transjordania (actual Jordania) se independizó del Reino Unido el 25 de mayo de 1946.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/jo.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Líbano?",
+      "respuesta": "1943",
+      "imagen": "",
+      "pista": "Hexadecimal: 797",
+      "mensaje": "**1943**. Líbano se independizó de Francia el 22 de noviembre de 1943.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lb.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Siria?",
+      "respuesta": "1946",
+      "imagen": "",
+      "pista": "Hexadecimal: 79A",
+      "mensaje": "**1946**. Siria se independizó de Francia el 17 de abril de 1946.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sy.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Vietnam del Sur (República de Vietnam)?",
+      "respuesta": "1955",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A3",
+      "mensaje": "**1955**. La República de Vietnam (Vietnam del Sur) se declaró independencia tras el referéndum de 1955.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/vn.webp"
+    },
+    {
+      "texto": "¿En qué año ocurrió la independencia de Congo (República Democrática del Congo)?",
+      "respuesta": "1960",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A8",
+      "mensaje": "**1960**. La República Democrática del Congo se independizó de Bélgica el 30 de junio de 1960.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cd.webp"
+    },
+    {
+      "texto": "¿En qué año tuvo lugar el fin del apartheid en Sudáfrica?",
+      "respuesta": "1994",
+      "imagen": "",
+      "pista": "Hexadecimal: 7CA",
+      "mensaje": "**1994**. Nelson Mandela asumió la presidencia, marcando el fin del apartheid el 27 de abril de 1994.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_South_Africa.svg/800px-Flag_of_South_Africa.svg.png"
+    },
+    {
+      "texto": "¿En qué año se independizó Bangladesh?",
+      "respuesta": "1971",
+      "imagen": "",
+      "pista": "Hexadecimal: 7B3",
+      "mensaje": "**1971**. Bangladesh se independizó de Pakistán el 26 de marzo de 1971.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bd.webp"
+    },
+    {
+      "texto": "¿En qué año se firmó el Tratado de Versalles?",
+      "respuesta": "1919",
+      "imagen": "",
+      "pista": "Hexadecimal: 77F",
+      "mensaje": "**1919**. El Tratado de Versalles fue firmado el 28 de junio de 1919.",
+      "imagenRC": "https://static.nationalgeographic.es/files/styles/image_3200/public/treaty-versailles-og.jpg?w=1600"
+    },
+    {
+      "texto": "¿En qué año ocurrió el bombardeo atómico de Hiroshima?",
+      "respuesta": "1945",
+      "imagen": "",
+      "pista": "Hexadecimal: 799",
+      "mensaje": "**1945**. Hiroshima fue bombardeada el 6 de agosto de 1945.",
+      "imagenRC": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic633178_0.jpg?w=1900&h=923"
+    },
+    {
+      "texto": "¿En qué año se fundó la ONU?",
+      "respuesta": "1945",
+      "imagen": "",
+      "pista": "Hexadecimal: 799",
+      "mensaje": "**1945**. La Organización de las Naciones Unidas se fundó el 24 de octubre de 1945.",
+      "imagenRC": "https://www.un.org/sustainabledevelopment/wp-content/uploads/sites/3/2023/07/naciones-unidas-un-png.png"
+    },
+    {
+      "texto": "¿En qué año ocurrió la Revolución Rusa?",
+      "respuesta": "1917",
+      "imagen": "",
+      "pista": "Hexadecimal: 77D",
+      "mensaje": "**1917**. La Revolución Rusa culminó en octubre de 1917.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8fF894OFxHxatnLst5JwSLaGNV6-ErFIpA&s"
+    },
+    {
+      "texto": "¿En qué año se cayó la Unión Soviética?",
+      "respuesta": "1991",
+      "imagen": "",
+      "pista": "Hexadecimal: 7C7",
+      "mensaje": "**1991**. La Unión Soviética se disolvió el 26 de diciembre de 1991.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1991_coup_attempt1.jpg/640px-1991_coup_attempt1.jpg"
+    },
+    {
+      "texto": "¿En qué año sucedió la Revolución Cubana?",
+      "respuesta": "1959",
+      "imagen": "",
+      "pista": "Hexadecimal: 7A7",
+      "mensaje": "**1959**. La Revolución Cubana triunfó el 1 de enero de 1959.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/3/33/LaCaballeriaCorrales.JPG"
+    },
+    {
+      "texto": "¿En qué año murió Martin Luther King Jr.?",
+      "respuesta": "1968",
+      "imagen": "",
+      "pista": "Hexadecimal: 7B0",
+      "mensaje": "**1968**. MLK fue asesinado el 4 de abril de 1968.",
+      "imagenRC": "https://static.nationalgeographic.es/files/styles/image_3200/public/06-martin-luther-king.webp?w=760&h=550"
+    },
+    {
+      "texto": "¿En qué año ocurrió el asesinato de John F. Kennedy?",
+      "respuesta": "1963",
+      "imagen": "",
+      "pista": "Hexadecimal: 7AB",
+      "mensaje": "**1963**. JFK fue asesinado el 22 de noviembre de 1963.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/JFK_White_House_portrait_looking_up_lighting_corrected.jpg/250px-JFK_White_House_portrait_looking_up_lighting_corrected.jpg"
+    },
+    {
+      "texto": "¿En qué año se inauguró la Torre Eiffel?",
+      "respuesta": "1889",
+      "imagen": "",
+      "pista": "Hexadecimal: 761",
+      "mensaje": "**1889**. La Torre Eiffel se inauguró el 31 de marzo de 1889.",
+      "imagenRC": "https://content-viajes.nationalgeographic.com.es/medio/2024/02/14/torre-eiffel_6e9796fd_278483323_240214093442_1280x853.jpg"
+    },
+    {
+      "texto": "¿En qué año tuvo lugar la primera transmisión televisiva pública?",
+      "respuesta": "1926",
+      "imagen": "",
+      "pista": "Hexadecimal: 786",
+      "mensaje": "**1926**. La primera emisión televisiva pública tuvo lugar en 1926 en Estados Unidos.",
+      "imagenRC": "https://alef.mx/wp-content/uploads/2018/01/John-Logie-Baird-y-su-aparato-televisor.jpg"
+    },
+    {
+      "texto": "¿En qué año se inventó el teléfono?",
+      "respuesta": "1876",
+      "imagen": "",
+      "pista": "Hexadecimal: 754",
+      "mensaje": "**1876**. Alexander Graham Bell patentó el teléfono en 1876.",
+      "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2020/03/02/graham-bell-durante-una-demostracion-en-1892_9a7f0c60_1200x630.jpg"
+    },
+    {
+      "texto": "¿En qué año se fundó Roma según la leyenda?",
+      "respuesta": "753",
+      "imagen": "",
+      "pista": "Hexadecimal: 2F1",
+      "mensaje": "**753 a.C.**. Según la tradición, Rómulo fundó Roma en 753 a.C.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg/1200px-Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg"
+    },
+    {
+      "texto": "¿En qué año se abolió la esclavitud en Estados Unidos?",
+      "respuesta": "1865",
+      "imagen": "",
+      "pista": "Hexadecimal: 749",
+      "mensaje": "**1865**. La esclavitud fue abolida con la ratificación de la 13ª Enmienda el 6 de diciembre de 1865.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/1/19/Miranda_THE_FREED_SLAVE_1876.jpg"
+    },
+    {
+      "texto": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+      "respuesta": "1896",
+      "imagen": "",
+      "pista": "Hexadecimal: 768",
+      "mensaje": "**1896**. Los primeros Juegos Olímpicos modernos fueron en Atenas en 1896.",
+      "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2020/05/14/ceremonia-de-apertura-de-los-juegos-olimpicos-de-1896-en-el-estadio-panathinaiko_a34088f8_1200x630.jpg"
+    },
+    {
+      "texto": "¿En qué año se hundió el Titanic?",
+      "respuesta": "1912",
+      "imagen": "",
+      "pista": "Hexadecimal: 778",
+      "mensaje": "**1912**. El Titanic se hundió el 15 de abril de 1912.",
+      "imagenRC": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic762774.jpg?w=1600"
+    },
+    {
+      "texto": "¿En qué año se adoptó la Constitución de Estados Unidos?",
+      "respuesta": "1787",
+      "imagen": "",
+      "pista": "Hexadecimal: 6FB",
+      "mensaje": "**1787**. La Constitución de EE.UU. fue adoptada el 17 de septiembre de 1787.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznWO3mn0lxRPn4tsXV18oYgF9DbqAATQXMg&s"
+    },
+    {
+      "texto": "¿En qué año ocurrió la batalla de Waterloo?",
+      "respuesta": "1815",
+      "imagen": "",
+      "pista": "Hexadecimal: 717",
+      "mensaje": "**1815**. La batalla de Waterloo tuvo lugar el 18 de junio de 1815.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3YSo55gCeaqQNb6neHO4xH2deE10vaScTA&s"
+    },
+    {
+      "texto": "¿En qué año surgió el Internet comercial?",
+      "respuesta": "1991",
+      "imagen": "",
+      "pista": "Hexadecimal: 7C7",
+      "mensaje": "**1991**. El primer sitio web fue lanzado al público en 1991, marcando el inicio del Internet comercial.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3QUc87yLgQR3l6XxyfEhg437TVB2FsS80Q&s"
+    },
+    {
+      "texto": "¿En qué año se promulgó la Declaración Universal de los Derechos Humanos?",
+      "respuesta": "1948",
+      "imagen": "",
+      "pista": "Hexadecimal: 79C",
+      "mensaje": "**1948**. Fue proclamada por la ONU el 10 de diciembre de 1948.",
+      "imagenRC": "https://www.un.org/es/udhrbook/pics/udhr-cover.jpg"
+    },
+    {
+      "texto": "¿En qué año ocurrió la Revolución Mexicana?",
+      "respuesta": "1910",
+      "imagen": "",
+      "pista": "Hexadecimal: 776",
+      "mensaje": "**1910**. La Revolución Mexicana comenzó el 20 de noviembre de 1910.",
+      "imagenRC": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/0044/live/f3b75520-a72d-11ef-bdf5-b7cb2fa86e10.jpg.webp"
+    },
+    {
+      "texto": "¿En qué año se inauguró la Estatua de la Libertad?",
+      "respuesta": "1886",
+      "imagen": "",
+      "pista": "Hexadecimal: 75E",
+      "mensaje": "**1886**. Fue inaugurada el 28 de octubre de 1886.",
+      "imagenRC": "https://www.maravillas-del-mundo.com/Estatua-de-la-Libertad/images/Histoire/Inauguration.jpg"
+    },
+    {
+      "texto": "¿En qué año fue el primer vuelo de los hermanos Wright?",
+      "respuesta": "1903",
+      "imagen": "",
+      "pista": "Hexadecimal: 76F",
+      "mensaje": "**1903**. El 17 de diciembre de 1903 realizaron el primer vuelo con motor en Kitty Hawk.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/9/95/Wrightflyer.jpg"
+    },
+    {
+      "texto": "¿En qué año terminó la construcción del Canal de Panamá?",
+      "respuesta": "1914",
+      "imagen": "",
+      "pista": "Hexadecimal: 77A",
+      "mensaje": "**1914**. Fue inaugurado el 15 de agosto de 1914.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vessels_locking_into_the_Panama_Canal.jpg"
+    },
+    {
+      "texto": "¿En qué año nació Albert Einstein?",
+      "respuesta": "1879",
+      "imagen": "",
+      "pista": "Hexadecimal: 757",
+      "mensaje": "**1879**. Einstein nació el 14 de marzo de 1879.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_lyF-1PIiFi0XlRSOvvXVU8UbsRP0nCwwAw&s"
+    },
+    {
+      "texto": "¿En qué año murió Winston Churchill?",
+      "respuesta": "1965",
+      "imagen": "",
+      "pista": "Hexadecimal: 7AD",
+      "mensaje": "**1965**. Churchill falleció el 24 de enero de 1965.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMfJ838FkNFlsHJopQRJiePaTX3pRvr0YtQ&s"
+    },
+    {
+      "texto": "¿En qué año se estrenó la película 'Avatar' de James Cameron?",
+      "respuesta": "2009",
+      "imagen": "",
+      "pista": "Hexadecimal: 7D9",
+      "mensaje": "**2009**. 'Avatar' se estrenó el 18 de diciembre de 2009.",
+      "imagenRC": "https://static.nationalgeographic.es/files/styles/image_3200/public/df-137855_r2.webp?w=1600&h=900"
+    },
+    {
+      "texto": "¿En qué año se publicaron las primeras computadoras IBM PC?",
+      "respuesta": "1981",
+      "imagen": "",
+      "pista": "Hexadecimal: 78D",
+      "mensaje": "**1981**. IBM presentó su PC el 12 de agosto de 1981.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IBM_PC_5150.jpg/330px-IBM_PC_5150.jpg"
+    },
+    {
+      "texto": "¿En qué año nació Nelson Mandela?",
+      "respuesta": "1918",
+      "imagen": "",
+      "pista": "Hexadecimal: 77E",
+      "mensaje": "**1918**. Nelson Mandela nació el 18 de julio de 1918.",
+      "imagenRC": "https://static.nationalgeographic.es/files/styles/image_3200/public/nelson-mandela-09060209807.jpg?w=1900&h=1268"
+    },
+    {
+      "texto": "¿En qué año terminó la construcción del Empire State?",
+      "respuesta": "1931",
+      "imagen": "",
+      "pista": "Hexadecimal: 78B",
+      "mensaje": "**1931**. Fue inaugurado el 1 de mayo de 1931.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/800px-Empire_State_Building_%28aerial_view%29.jpg"
+    },
+    {
+      "texto": "¿En qué año se lanzó el primer iPhone?",
+      "respuesta": "2007",
+      "imagen": "",
+      "pista": "Hexadecimal: 7D7",
+      "mensaje": "**2007**. Apple lanzó el primer iPhone el 29 de junio de 2007.",
+      "imagenRC": "https://cdn.shopify.com/s/files/1/0604/8373/1606/files/primer-iphone-steve-jobs-2007_1024x1024.png?v=1723503825"
+    },
+    {
+      "texto": "¿En qué año se estrenó 'La guerra de las galaxias'?",
+      "respuesta": "1977",
+      "imagen": "",
+      "pista": "Hexadecimal: 7B9",
+      "mensaje": "**1977**. 'Star Wars' se estrenó el 25 de mayo de 1977.",
+      "imagenRC": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "texto": "¿En qué año se abolió el Imperio otomano?",
+      "respuesta": "1922",
+      "imagen": "",
+      "pista": "Hexadecimal: 782",
+      "mensaje": "**1922**. El sultanato otomano fue abolido el 1 de noviembre de 1922.",
+      "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2022/11/16/soldados-britanicos-desfilando-ante-la-mezquita-nusretiye-de-estambul-en-1920_f62e1897_1200x630.jpg"
+    },
+    {
+      "texto": "¿En qué año se adoptó la euro como moneda?",
+      "respuesta": "1999",
+      "imagen": "",
+      "pista": "Hexadecimal: 7CF",
+      "mensaje": "**1999**. El euro fue lanzado electrónicamente el 1 de enero de 1999.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Reverso_1_euro.jpg/640px-Reverso_1_euro.jpg"
+    },
+    {
+      "texto": "¿En qué año se celebró el primer Mundial de Fútbol?",
+      "respuesta": "1930",
+      "imagen": "",
+      "pista": "Hexadecimal: 78A",
+      "mensaje": "**1930**. El primer Mundial se celebró en Uruguay en 1930.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQY7aGZ-LqzEYUUqPlfEGEEXRSOUSH5Bs3ZQ&s"
+    },
+    {
+      "texto": "¿En qué año se abolió la monarquía en Francia?",
+      "respuesta": "1792",
+      "imagen": "",
+      "pista": "Hexadecimal: 700",
+      "mensaje": "**1792**. La monarquía fue abolida el 21 de septiembre de 1792.",
+      "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2022/11/25/libertad-guiando-al-pueblo-cuadro-pintado-por-eugene-delacroix-en-1830-y-expuesto-en-el-museo-del-louvre_4ca6758f_747x599.jpg"
+    },
+    {
+      "texto": "¿En qué año se firmó el Tratado de Tordesillas?",
+      "respuesta": "1494",
+      "imagen": "",
+      "pista": "Hexadecimal: 5D6",
+      "mensaje": "**1494**. España y Portugal firmaron este tratado el 7 de junio de 1494 para repartirse las tierras del Nuevo Mundo.",
+      "imagenRC": "https://estudia-en-argentina.com.ar/wp-content/uploads/2023/12/el-gran-tratado-de-tordesillas-un-nuevo-capitulo-en-la-historia-de-la-exploracion.jpg"
+    },
+    {
+      "texto": "¿En qué año se inventó la imprenta de Gutenberg?",
+      "respuesta": "1440",
+      "imagen": "",
+      "pista": "Hexadecimal: 5A0",
+      "mensaje": "**1440**. Johannes Gutenberg desarrolló la imprenta de tipos móviles en Maguncia, Alemania, hacia 1440.",
+      "imagenRC": "https://content-historia.nationalgeographic.com.es/medio/2019/01/30/gutenberg-y-los-tipos-moviles_6f4e801b_1200x630.jpg"
+    },
+    {
+      "texto": "¿En qué año se produjo la Revolución Industrial en Inglaterra?",
+      "respuesta": "1760",
+      "imagen": "",
+      "pista": "Hexadecimal: 6E0",
+      "mensaje": "**1760**. La Revolución Industrial comenzó en Inglaterra alrededor de 1760, con la mecanización de la producción.",
+      "imagenRC": "https://static.nationalgeographicla.com/files/styles/image_3200/public/industrial-landscape-by-kregczy-17318.png?w=1900&h=1241"
+    },
+    {
+      "texto": "¿En qué año se fundó la UNESCO?",
+      "respuesta": "1945",
+      "imagen": "",
+      "pista": "Hexadecimal: 799",
+      "mensaje": "**1945**. La UNESCO fue fundada el 16 de noviembre de 1945 para promover la educación y la cultura global.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_UNESCO.svg/900px-Flag_of_UNESCO.svg.png"
+    },
+    {
+      "texto": "¿En qué año se creó Wikipedia?",
+      "respuesta": "2001",
+      "imagen": "",
+      "pista": "Hexadecimal: 7D1",
+      "mensaje": "**2001**. Jimmy Wales y Larry Sanger lanzaron Wikipedia el 15 de enero de 2001.",
+      "imagenRC": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXTbKo0ARoq7wgoH1pTEiX8n-tX1CaR28zQ&s"
+    },
+    {
+      "texto": "¿En qué año se descubrió el ADN?",
+      "respuesta": "1869",
+      "imagen": "",
+      "pista": "Hexadecimal: 74D",
+      "mensaje": "**1869**. Friedrich Miescher identificó el ADN por primera vez en 1869, aunque su estructura se describió en 1953.",
+      "imagenRC": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Chromosome-es.svg"
+    },
+    {
+      "texto": "¿En qué año se celebró la primera Copa Mundial Femenina de Fútbol?",
+      "respuesta": "1991",
+      "imagen": "",
+      "pista": "Hexadecimal: 7C7",
+      "mensaje": "**1991**. La primera edición fue en China, del 16 al 30 de noviembre de 1991. Estados Unidos ganó el torneo.",
+      "imagenRC": "https://static.nationalgeographicla.com/files/styles/image_3200/public/women-soccer-02.jpg?w=1900&h=1273"
+    },
+    {
+       "texto": "¿En qué año ocurrió la independencia de Nicaragua?",
+      "respuesta": "1811",
+      "imagen": "",
+      "pista": "Hexadecimal: 713",
+      "mensaje": "**1811**. Nicaragua se independizó de España el 15 de septiembre del año 1821.",
+      "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ni.webp" 
+    }
+
+    ]
+}

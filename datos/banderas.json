@@ -1,0 +1,2063 @@
+{
+    "preguntas": [
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Afganistán", "Afganistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/af.webp?v=un",
+            "pista": "Tiene 10 letras y empieza por: A_________",
+            "mensaje": "**Afganistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/af.webp?v=un"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Åland","Aland"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ax.webp",
+            "pista": "Tiene 5 letras y empieza por: Å____",
+            "mensaje": "**Åland.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ax.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Albania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/al.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Albania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/al.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Alemania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/de.webp",
+            "pista": "Tiene 8 letras y empieza por: A_______",
+            "mensaje": "**Alemania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/de.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Andorra",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ad.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Andorra.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ad.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Angola",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ao.webp",
+            "pista": "Tiene 6 letras y empieza por: A_____",
+            "mensaje": "**Angola.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ao.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Anguila",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ai.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Anguila.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ai.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Antigua y Barbuda",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ag.webp",
+            "pista": "Tiene 17 letras y empieza por: A______ y B______",
+            "mensaje": "**Antigua y Barbuda.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ag.webp"
+
+        },
+
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Arabia Saudita",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sa.webp",
+            "pista": "Tiene 14 letras y empieza por: A_____ S______",
+            "mensaje": "**Arabia Saudita.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sa.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Argelia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/dz.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Argelia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/dz.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Argentina",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ar.webp",
+            "pista": "Tiene 9 letras y empieza por: A________",
+            "mensaje": "**Argentina.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ar.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Armenia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/am.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Armenia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/am.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Aruba",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/aw.webp",
+            "pista": "Tiene 5 letras y empieza por: A____",
+            "mensaje": "**Aruba.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/aw.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Australia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/au.webp",
+            "pista": "Tiene 9 letras y empieza por: A________",
+            "mensaje": "**Australia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/au.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Austria",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/at.webp",
+            "pista": "Tiene 7 letras y empieza por: A______",
+            "mensaje": "**Austria.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/at.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Azerbaiyán", "Azerbaiyan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/az.webp",
+            "pista": "Tiene 10 letras y empieza por: A_________",
+            "mensaje": "**Azerbaiyán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/az.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bahamas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bs.webp",
+            "pista": "Tiene 6 letras y empieza por: B______",
+            "mensaje": "**Bahamas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bs.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Baréin", "Barein"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bh.webp",
+            "pista": "Tiene 6 letras y empieza por: B_____",
+            "mensaje": "**Baréin.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bh.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bangladesh",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bd.webp",
+            "pista": "Tiene 10 letras y empieza por: B_________",
+            "mensaje": "**Bangladesh.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bd.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Barbados",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bb.webp",
+            "pista": "Tiene 8 letras y empieza por: B_______",
+            "mensaje": "**Barbados.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bb.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Bélgica", "Belgica"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/be.webp",
+            "pista": "Tiene 7 letras y empieza por: B______",
+            "mensaje": "**Bélgica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/be.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Belice",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bz.webp",
+            "pista": "Tiene 6 letras y empieza por: B_____",
+            "mensaje": "**Belice.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bz.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Benín", "Benin"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bj.webp",
+            "pista": "Tiene 5 letras y empieza por: B____",
+            "mensaje": "**Benín.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bj.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bermudas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bm.webp",
+            "pista": "Tiene 8 letras y empieza por: B_______",
+            "mensaje": "**Bermudas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bm.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bielorrusia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/by.webp",
+            "pista": "Tiene 11 letras y empieza por: B__________",
+            "mensaje": "**Bielorrusia**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/by.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bolivia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bo.webp",
+            "pista": "Tiene 7 letras y empieza por: B______",
+            "mensaje": "**Bolivia**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bo.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bosnia y Herzegovina",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ba.webp",
+            "pista": "Tiene 20 letras y empieza por: B_____ y H__________",
+            "mensaje": "**Bosnia y Herzegovina.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ba.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Botsuana",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bw.webp",
+            "pista": "Tiene 8 letras y empieza por: B_______",
+            "mensaje": "**Botsuana.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bw.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Brasil", "Brazil"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/br.webp",
+            "pista": "Tiene 6 letras y empieza por: B_____",
+            "mensaje": "**Brasil.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/br.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Brunéi", "Brunei"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bn.webp",
+            "pista": "Tiene 6 letras y empieza por: B_____",
+            "mensaje": "**Brunéi.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bn.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Bulgaria",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bg.webp",
+            "pista": "Tiene 8 letras y empieza por: B_______",
+            "mensaje": "**Bulgaria.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bg.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Burkina Faso",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bf.webp",
+            "pista": "Tiene 12 letras y empieza por: B______ F___",
+            "mensaje": "**Burkina Faso.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bf.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Burundi",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bi.webp",
+            "pista": "Tiene 7 letras y empieza por: B______",
+            "mensaje": "**Burundi.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bi.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Bután", "Butan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/bt.webp",
+            "pista": "Tiene 5 letras y empieza por: B____",
+            "mensaje": "**Bután.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/bt.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Cabo Verde",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cv.webp",
+            "pista": "Tiene 10 letras y empieza por: C___ V____",
+            "mensaje": "**Cabo Verde.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cv.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Camboya",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kh.webp",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Camboya.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kh.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Camerún", "Camerun"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cm.webp",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Camerún.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cm.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Canadá", "Canada"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ca.webp",
+            "pista": "Tiene 6 letras y empieza por: C_____",
+            "mensaje": "**Canadá.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ca.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Catar", "Qatar"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/qa.webp",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Catar.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/qa.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Chad",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/td.webp",
+            "pista": "Tiene 4 letras y empieza por: C___",
+            "mensaje": "**Chad.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/td.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Chile",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cl.webp",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**Chile.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cl.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "China",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cn.webp",
+            "pista": "Tiene 5 letras y empieza por: C____",
+            "mensaje": "**China.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cn.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Chipre",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cy.webp",
+            "pista": "Tiene 6 letras y empieza por: C_____",
+            "mensaje": "**Chipre.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cy.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Ciudad del Vaticano",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/va.webp",
+            "pista": "Tiene 19 letras y empieza por: C_____ d__ v_______",
+            "mensaje": "**Ciudad del Vaticano.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/va.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Colombia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/co.webp",
+            "pista": "Tiene 8 letras y empieza por: C_______",
+            "mensaje": "**Colombia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/co.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Comoras",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/km.webp",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Comoras.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/km.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["República del Congo", "Congo"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cg.webp",
+            "pista": "Tiene 19 letras y empieza por: R________ d__ C____",
+            "mensaje": "**República del Congo.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cg.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Corea del Norte",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kp.webp",
+            "pista": "Tiene 15 letras y empieza por: C____ d__ N____",
+            "mensaje": "**Corea del Norte.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kp.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Corea del Sur",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kr.webp",
+            "pista": "Tiene 13 letras y empieza por: C____ d__ S____",
+            "mensaje": "**Corea del Sur.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Costa de Marfil",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ci.webp",
+            "pista": "Tiene 15 letras y empieza por: C____ d_ M_____",
+            "mensaje": "**Costa de Marfil.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ci.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Costa Rica",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cr.webp",
+            "pista": "Tiene 10 letras y empieza por: C____ R___",
+            "mensaje": "**Costa Rica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Croacia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/hr.webp",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Croacia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/hr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Cuba",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cu.webp",
+            "pista": "Tiene 4 letras y empieza por: C___",
+            "mensaje": "**Cuba.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cu.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Curazao",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cw.webp",
+            "pista": "Tiene 7 letras y empieza por: C______",
+            "mensaje": "**Curazao.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cw.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Dinamarca",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/dk.webp",
+            "pista": "Tiene 9 letras y empieza por: D________",
+            "mensaje": "**Dinamarca.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/dk.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Dominica",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/dm.webp",
+            "pista": "Tiene 8 letras y empieza por: D_______",
+            "mensaje": "**Dominica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/dm.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Ecuador",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ec.webp",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Ecuador.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ec.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Egipto",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/eg.webp",
+            "pista": "Tiene 6 letras y empieza por: E_____",
+            "mensaje": "**Egipto.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/eg.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "El Salvador",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sv.webp",
+            "pista": "Tiene 11 letras y empieza por: E_ S_______",
+            "mensaje": "**El Salvador.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sv.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Emiratos Árabes Unidos", "Emiratos Arabes Unidos"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ae.webp",
+            "pista": "Tiene 22 letras y empieza por: E_______ Á_____ U_____",
+            "mensaje": "**Emiratos Árabes Unidos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ae.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Eritrea",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/er.webp",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Eritrea.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/er.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Escocia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gb-sct.webp",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Escocia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gb-sct.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Eslovaquia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sk.webp",
+            "pista": "Tiene 10 letras y empieza por: E_________",
+            "mensaje": "**Eslovaquia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sk.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Eslovenia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/si.webp",
+            "pista": "Tiene 9 letras y empieza por: E________",
+            "mensaje": "**Eslovenia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/si.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "España",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/es.webp",
+            "pista": "Tiene 6 letras y empieza por: E_____",
+            "mensaje": "**España.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/es.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Estados Unidos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/us.webp",
+            "pista": "Tiene 14 letras y empieza por: E______ U_____",
+            "mensaje": "**Estados Unidos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/us.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Estonia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ee.webp",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Estonia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ee.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Esuatini", "Suazilandia"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sz.webp",
+            "pista": "Tiene 8 letras y empieza por: E_______",
+            "mensaje": "**Esuatini.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sz.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Etiopía", "Etiopia"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/et.webp",
+            "pista": "Tiene 7 letras y empieza por: E______",
+            "mensaje": "**Etiopía.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/et.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Filipinas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ph.webp",
+            "pista": "Tiene 9 letras y empieza por: F________",
+            "mensaje": "**Filipinas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ph.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Finlandia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fi.webp",
+            "pista": "Tiene 9 letras y empieza por: F________",
+            "mensaje": "**Finlandia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fi.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Fiyi",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fj.webp",
+            "pista": "Tiene 4 letras y empieza por: F___",
+            "mensaje": "**Fiyi.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fj.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Francia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fr.webp",
+            "pista": "Tiene 7 letras y empieza por: F______",
+            "mensaje": "**Francia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Gabón", "Gabon"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ga.webp",
+            "pista": "Tiene 5 letras y empieza por: G____",
+            "mensaje": "**Gabón.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ga.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Gales",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gb-wls.webp",
+            "pista": "Tiene 5 letras y empieza por: G____",
+            "mensaje": "**Gales.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gb-wls.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Gambia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gm.webp",
+            "pista": "Tiene 6 letras y empieza por: g_____",
+            "mensaje": "**Gambia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gm.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Georgia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ge.webp",
+            "pista": "Tiene 7 letras y empieza por: G______",
+            "mensaje": "**Georgia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ge.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Ghana",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gh.webp",
+            "pista": "Tiene 5 letras y empieza por: G____",
+            "mensaje": "**Ghana.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gh.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Gibraltar",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gi.webp",
+            "pista": "Tiene 9 letras y empieza por: G________",
+            "mensaje": "**Gibraltar.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gi.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Grecia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gr.webp",
+            "pista": "Tiene 6 letras y empieza por: G_____",
+            "mensaje": "**Grecia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Granada",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gd.webp",
+            "pista": "Tiene 7 letras y empieza por: G______",
+            "mensaje": "**Granada.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gd.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Groenlandia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gl.webp",
+            "pista": "Tiene 11 letras y empieza por: G__________",
+            "mensaje": "**Groenlandia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gl.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guadalupe",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gp.webp",
+            "pista": "Tiene 9 letras y empieza por: G________",
+            "mensaje": "**Guadalupe.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gp.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guam",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gu.webp",
+            "pista": "Tiene 4 letras y empieza por: G___",
+            "mensaje": "**Guam.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gu.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guatemala",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gt.webp",
+            "pista": "Tiene 9 letras y empieza por: G________",
+            "mensaje": "**Guatemala.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gt.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guayana Francesa",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gf.webp",
+            "pista": "Tiene 16 letras y empieza por: G______ F_______",
+            "mensaje": "**Guayana Francesa**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gf.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guernsey",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gg.webp",
+            "pista": "Tiene 8 letras y empieza por: G_______",
+            "mensaje": "**Guernsey.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gg.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guinea",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gn.webp",
+            "pista": "Tiene 6 letras y empieza por: G_____",
+            "mensaje": "**Guinea.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gn.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Guinea Bisáu", "Guinea Bisau", "Guinea-Bisáu"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gw.webp",
+            "pista": "Tiene 12 letras y empieza por: G_____-B____",
+            "mensaje": "**Guinea-Bisáu.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gw.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guinea Ecuatorial",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gq.webp",
+            "pista": "Tiene 17 letras y empieza por: G_____ E_________",
+            "mensaje": "**Guinea Ecuatorial.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gq.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Guyana",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gy.webp",
+            "pista": "Tiene 6 letras y empieza por: G_____",
+            "mensaje": "**Guyana**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gy.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Haití", "Haiti"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ht.webp",
+            "pista": "Tiene 5 letras y empieza por: H____",
+            "mensaje": "**Haití.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ht.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Honduras",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/hn.webp",
+            "pista": "Tiene 8 letras y empieza por: H_______",
+            "mensaje": "**Honduras.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/hn.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Hong Kong",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/hk.webp",
+            "pista": "Tiene 9 letras y empieza por: H___ K___",
+            "mensaje": "**Hong Kong.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/hk.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Hungría", "Hungria"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/hu.webp",
+            "pista": "Tiene 7 letras y empieza por: H______",
+            "mensaje": "**Hungría.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/hu.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "India",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/in.webp",
+            "pista": "Tiene 5 letras y empieza por: I____",
+            "mensaje": "**India.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/in.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Indonesia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/id.webp",
+            "pista": "Tiene 9 letras y empieza por: I________",
+            "mensaje": "**Indonesia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/id.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Inglaterra",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gb-eng.webp",
+            "pista": "Tiene 10 letras y empieza por: I_________",
+            "mensaje": "**Inglaterra.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gb-eng.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Irak",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/iq.webp",
+            "pista": "Tiene 4 letras y empieza por: I___",
+            "mensaje": "**Irak.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/iq.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Irán", "Iran"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ir.webp",
+            "pista": "Tiene 4 letras y empieza por: I___",
+            "mensaje": "**Irán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ir.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Irlanda",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ie.webp",
+            "pista": "Tiene 7 letras y empieza por: I______",
+            "mensaje": "**Irlanda.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ie.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Isla de Man",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/im.webp",
+            "pista": "Tiene 11 letras y empieza por: I___ d_ M__",
+            "mensaje": "**Isla de Man.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/im.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Isla de Navidad",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cx.webp",
+            "pista": "Tiene 15 letras y empieza por: I___ d_ N______",
+            "mensaje": "**Isla de Navidad.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cx.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Isla Norfolk", "Norfolk", "Islas Norfolk"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nf.webp",
+            "pista": "Tiene 12 letras y empieza por: I___ N______",
+            "mensaje": "**Isla Norfolk.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nf.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islandia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/is.webp",
+            "pista": "Tiene 8 letras y empieza por: I_______",
+            "mensaje": "**Islandia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/is.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Islas Caimán", "Islas Caiman"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ky.webp",
+            "pista": "Tiene 12 letras y empieza por: I____ C_____",
+            "mensaje": "**Islas Caimán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ky.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Cocos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cc.webp",
+            "pista": "Tiene 11 letras y empieza por: I____ C____",
+            "mensaje": "**Islas Cocos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cc.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Cook",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ck.webp",
+            "pista": "Tiene 10 letras y empieza por: I____ C___",
+            "mensaje": "**Islas Cook.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ck.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Feroe",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fo.webp",
+            "pista": "Tiene 11 letras y empieza por: I____ F____",
+            "mensaje": "**Islas Feroe.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fo.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Islas Georgias del Sur y Sándwich del Sur", "Islas Georgias del Sur y Sandwich del Sur"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gs.webp",
+            "pista": "Tiene 41 letras y empieza por: I____ G_______ d__ S__ y S_______ d__ S__",
+            "mensaje": "**Islas Georgias del Sur y Sándwich del Sur.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gs.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Malvinas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fk.webp",
+            "pista": "Tiene 14 letras y empieza por: I____ M_______",
+            "mensaje": "**Islas Malvinas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fk.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Marianas del Norte",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mp.webp",
+            "pista": "Tiene 24 letras y empieza por: I____ M_______ d__ N____",
+            "mensaje": "**Islas Marianas del Norte.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mp.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Marshall",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mh.webp",
+            "pista": "Tiene 14 letras y empieza por: I____ M_______",
+            "mensaje": "**Islas Marshall.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mh.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Pitcairn",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pn.webp",
+            "pista": "Tiene 14 letras y empieza por: I____ P_______",
+            "mensaje": "**Islas Pitcairn.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pn.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Islas Salomón","Islas Salomon"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sb.webp",
+            "pista": "Tiene 13 letras y empieza por: I____ S______",
+            "mensaje": "**Islas Salomón.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sb.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Islas Turcas y Caicos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tc.webp",
+            "pista": "Tiene 21 letras y empieza por: I____ T_____ y C_____",
+            "mensaje": "**Islas Turcas y Caicos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tc.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Israel",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/il.webp",
+            "pista": "Tiene 6 letras y empieza por: I_____",
+            "mensaje": "**Israel.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/il.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Italia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/it.webp",
+            "pista": "Tiene 6 letras y empieza por: I_____",
+            "mensaje": "**Italia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/it.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Jamaica",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/jm.webp",
+            "pista": "Tiene 7 letras y empieza por: J______",
+            "mensaje": "**Jamaica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/jm.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Japón", "Japon"], 
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/jp.webp",
+            "pista": "Tiene 5 letras y empieza por: J____",
+            "mensaje": "**Japón.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/jp.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Jersey",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/je.webp",
+            "pista": "Tiene 6 letras y empieza por: J_____",
+            "mensaje": "**Jersey.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/je.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Jordania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/jo.webp",
+            "pista": "Tiene 8 letras y empieza por: J_______",
+            "mensaje": "**Jordania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/jo.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Kazajistán", "Kazajistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kz.webp",
+            "pista": "Tiene 10 letras y empieza por: K_________",
+            "mensaje": "**Kazajistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kz.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Kenia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ke.webp",
+            "pista": "Tiene 5 letras y empieza por: K____",
+            "mensaje": "**Kenia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ke.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Kirguistán","Kirguistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kg.webp",
+            "pista": "Tiene 10 letras y empieza por: K_________",
+            "mensaje": "**Kirguistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kg.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Kiribati",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ki.webp",
+            "pista": "Tiene 8 letras y empieza por: K_______",
+            "mensaje": "**Kiribati.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ki.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Kosovo",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/xk.webp",
+            "pista": "Tiene 6 letras y empieza por: K_____",
+            "mensaje": "**Kosovo.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/xk.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Kuwait",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kw.webp",
+            "pista": "Tiene 6 letras y empieza por: K_____",
+            "mensaje": "**Kuwait.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kw.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Laos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/la.webp",
+            "pista": "Tiene 4 letras y empieza por: L___",
+            "mensaje": "**Laos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/la.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Lesoto",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ls.webp",
+            "pista": "Tiene 6 letras y empieza por: L_____",
+            "mensaje": "**Lesoto.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ls.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Letonia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lv.webp",
+            "pista": "Tiene 7 letras y empieza por: L______",
+            "mensaje": "**Letonia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lv.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Líbano", "Libano"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lb.webp",
+            "pista": "Tiene 6 letras y empieza por: L_____",
+            "mensaje": "**Líbano.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lb.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Liberia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lr.webp",
+            "pista": "Tiene 7 letras y empieza por: L______",
+            "mensaje": "**Liberia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lr.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Libia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ly.webp",
+            "pista": "Tiene 5 letras y empieza por: L____",
+            "mensaje": "**Libia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ly.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Liechtenstein",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/li.webp",
+            "pista": "Tiene 13 letras y empieza por: L____________",
+            "mensaje": "**Liechtenstein.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/li.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Lituania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lt.webp",
+            "pista": "Tiene 8 letras y empieza por: L_______",
+            "mensaje": "**Lituania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lt.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Luxemburgo",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lu.webp",
+            "pista": "Tiene 10 letras y empieza por: L_________",
+            "mensaje": "**Luxemburgo.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lu.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Macedonia del Norte",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mk.webp",
+            "pista": "Tiene 19 letras y empieza por: M________ d__ N____",
+            "mensaje": "**Macedonia del Norte.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mk.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Madagascar",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mg.webp",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Madagascar.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mg.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Malasia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/my.webp",
+            "pista": "Tiene 7 letras y empieza por: M______",
+            "mensaje": "**Malasia**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/my.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Malaui", "Malawi"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mw.webp",
+            "pista": "Tiene 6 letras y empieza por: M_____",
+            "mensaje": "**Malaui.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mw.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Maldivas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mv.webp",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Maldivas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mv.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Mali",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ml.webp",
+            "pista": "Tiene 4 letras y empieza por: M___",
+            "mensaje": "**Mali.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ml.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Malta",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mt.webp",
+            "pista": "Tiene 5 letras y empieza por: M____",
+            "mensaje": "**Malta.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mt.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Marruecos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ma.webp",
+            "pista": "Tiene 9 letras y empieza por: M________",
+            "mensaje": "**Marruecos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ma.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Martinica",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mq.webp",
+            "pista": "Tiene 9 letras y empieza por: M________",
+            "mensaje": "**Martinica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mq.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Mauricio",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mu.webp",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Mauricio.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mu.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Mauritania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mr.webp",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Mauritania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mr.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["México", "Mexico"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mx.webp",
+            "pista": "Tiene 6 letras y empieza por: M_____",
+            "mensaje": "**México.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mx.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Micronesia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/fm.webp",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Micronesia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/fm.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Moldavia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/md.webp",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Moldavia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/md.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Mónaco", "Monaco"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mc.webp",
+            "pista": "Tiene 6 letras y empieza por: M_____",
+            "mensaje": "**Mónaco.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mc.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Mongolia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mn.webp",
+            "pista": "Tiene 8 letras y empieza por: M_______",
+            "mensaje": "**Mongolia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mn.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Montenegro",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/me.webp",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Montenegro.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/me.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Montserrat",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ms.webp",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Montserrat.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ms.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Mozambique",
+            "imagen": "https://www.banderas-mundo.es/mozambique",
+            "pista": "Tiene 10 letras y empieza por: M_________",
+            "mensaje": "**Mozambique.**",
+            "imagenRC": "https://www.banderas-mundo.es/mozambique"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Myanmar", "Birmania"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/mm.webp",
+            "pista": "Tiene 7 letras y empieza por: M______",
+            "mensaje": "**Myanmar.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/mm.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Namibia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/na.webp",
+            "pista": "Tiene 7 letras y empieza por: N______",
+            "mensaje": "**Namibia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/na.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nauru",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nr.webp",
+            "pista": "Tiene 5 letras y empieza por: N____",
+            "mensaje": "**Nauru.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nr.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nepal",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/np.webp",
+            "pista": "Tiene 5 letras y empieza por: N____",
+            "mensaje": "**Nepal.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/np.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nicaragua",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ni.webp",
+            "pista": "Tiene 9 letras y empieza por: N________",
+            "mensaje": "**Nicaragua.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ni.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Níger", "Niger"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ne.webp",
+            "pista": "Tiene 5 letras y empieza por: N____",
+            "mensaje": "**Níger.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ne.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nigeria",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ng.webp",
+            "pista": "Tiene 7 letras y empieza por: N______",
+            "mensaje": "**Nigeria.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ng.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Niue",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nu.webp",
+            "pista": "Tiene 4 letras y empieza por: N___",
+            "mensaje": "**Niue.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nu.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Noruega",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/no.webp",
+            "pista": "Tiene 7 letras y empieza por: N______",
+            "mensaje": "**Noruega**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/no.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nueva Caledonia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nc.webp",
+            "pista": "Tiene 15 letras y empieza por: N____ C________",
+            "mensaje": "**Nueva Caledonia**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nc.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Nueva Zelanda",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nz.webp",
+            "pista": "Tiene 13 letras y empieza por: N____ Z______",
+            "mensaje": "**Nueva Zelanda.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nz.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Omán", "Oman"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/om.webp",
+            "pista": "Tiene 4 letras y empieza por: O___",
+            "mensaje": "**Omán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/om.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Países Bajos", "Paises Bajos"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/nl.webp",
+            "pista": "Tiene 12 letras y empieza por: P_____ B____",
+            "mensaje": "**Países Bajos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/nl.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Pakistán", "Pakistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pk.webp",
+            "pista": "Tiene 8 letras y empieza por: P_______",
+            "mensaje": "**Pakistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pk.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Palaos",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pw.webp",
+            "pista": "Tiene 6 letras y empieza por: P_____",
+            "mensaje": "**Palaos.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pw.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Palestina",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ps.webp",
+            "pista": "Tiene 9 letras y empieza por: P________",
+            "mensaje": "**Palestina.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ps.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Panamá", "Panama"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pa.webp",
+            "pista": "Tiene 6 letras y empieza por: P_____",
+            "mensaje": "**Panamá.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pa.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Papúa Nueva Guinea", "Papua Nueva Guinea"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pg.webp",
+            "pista": "Tiene 18 letras y empieza por: P____ N____ G_____",
+            "mensaje": "**Papúa Nueva Guinea.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pg.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Paraguay",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/py.webp",
+            "pista": "Tiene 8 letras y empieza por: P_______",
+            "mensaje": "**Paraguay.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/py.webp"
+        },
+
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Perú", "Peru"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pe.webp",
+            "pista": "Tiene 4 letras y empieza por: P___",
+            "mensaje": "**Perú.**",
+            "imagenRC": "ttps://www.banderas-mundo.es/data/flags/w580/pe.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Polinesia Francesa",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pf.webp", 
+            "pista": "Tiene 18 letras y empieza por: P________ F_______",
+            "mensaje": "**Polinesia Francesa.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pf.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Polonia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pl.webp",
+            "pista": "Tiene 7 letras y empieza por: P______",
+            "mensaje": "**Polonia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pl.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Portugal",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pt.webp",
+            "pista": "Tiene 8 letras y empieza por: P_______",
+            "mensaje": "**Portugal.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pt.webp"
+
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Puerto Rico",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pr.webp",
+            "pista": "Tiene 11 letras y empieza por: P_____ R___",
+            "mensaje": "**Puerto Rico.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pr.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Reino Unido", 
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/gb.webp",
+            "pista": "Tiene 11 letras y empieza por: R____ U____",
+            "mensaje": "**Reino Unido.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/gb.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["República centroafricana", "Republica Centroafricana"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cf.webp",
+            "pista": "Tiene 24 letras y empieza por: R________ c_____________",
+            "mensaje": "**República centroafricana.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cf.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "República Checa",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cz.webp",
+            "pista": "Tiene 15 letras y empieza por: R________ C____",
+            "mensaje": "**República Checa.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cz.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["República Democrática del Congo", "Republica Democratica Del Congo"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/cd.webp",
+            "pista": "Tiene 31 letras y empieza por: R________ D__________ d__ C____",
+            "mensaje": "**República Democrática del Congo.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/cd.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["República Dominicana", "Republica Dominicana"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/do.webp",
+            "pista": "Tiene 20 letras y empieza por: R________ D_________",
+            "mensaje": "**República Dominicana.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/do.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Reunión", "Reunion"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/re.webp",
+            "pista": "Tiene 7 letras y empieza por: R______",
+            "mensaje": "**Reunión**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/re.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Ruanda",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/rw.webp",
+            "pista": "Tiene 6 letras y empieza por: R_____",
+            "mensaje": "**Ruanda.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/rw.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Rumania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ro.webp",
+            "pista": "Tiene 7 letras y empieza por: R______",
+            "mensaje": "**Rumania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ro.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Rusia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ru.webp",
+            "pista": "Tiene 5 letras y empieza por: R____",
+            "mensaje": "**Rusia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ru.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Samoa",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ws.webp",
+            "pista": "Tiene 5 letras y empieza por: S____",
+            "mensaje": "**Samoa.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ws.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Samoa Americana",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/as.webp",
+            "pista": "Tiene 15 letras y empieza por: S____ A________",
+            "mensaje": "**Samoa Americana.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/as.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["San Cristóbal y Nieves", "San Cristobal y Nieves"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/kn.webp",
+            "pista": "Tiene 22 letras y empieza por: S__ C________ y N_____",
+            "mensaje": "**San Cristóbal y Nieves.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/kn.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "San Marino",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sm.webp",
+            "pista": "Tiene 10 letras y empieza por: S__ M_____",
+            "mensaje": "**San Marino.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sm.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["San Pedro y Miquelón", "San Pedro y Miquelon"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/pm.webp",
+            "pista": "Tiene 20 letras y empieza por: S__ P____ y M_______",
+            "mensaje": "**San Pedro y Miquelón.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/pm.webp"
+        },
+
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "San Vicente y las Granadinas",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/vc.webp",
+            "pista": "Tiene 28 letras y empieza por: S__ V______ y l__ G_________",
+            "mensaje": "**San Vicente y las Granadinas.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/vc.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Santa Elena",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sh.webp",
+            "pista": "Tiene 11 letras y empieza por: S____ E____",
+            "mensaje": "**Santa Elena.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sh.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Santa Lucía", "Santa Lucia"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lc.webp",
+            "pista": "Tiene 11 letras y empieza por: S____ L____",
+            "mensaje": "**Santa Lucía.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lc.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Santo Tomé y Príncipe", "Santo Tome y Principe"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/st.webp",
+            "pista": "Tiene 21 letras y empieza por: S____ T___ y P_______",
+            "mensaje": "**Santo Tomé y Príncipe.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/st.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Senegal",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sn.webp",
+            "pista": "Tiene 7 letras y empieza por: S______",
+            "mensaje": "**Senegal.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sn.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Serbia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/rs.webp",
+            "pista": "Tiene 6 letras y empieza por: S_____",
+            "mensaje": "**Serbia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/rs.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Seychelles",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sc.webp",
+            "pista": "Tiene 10 letras y empieza por: S_________",
+            "mensaje": "**Seychelles.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sc.webp"
+        },      
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Sierra Leona",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sl.webp",
+            "pista": "Tiene 12 letras y empieza por: S_____ L____",
+            "mensaje": "**Sierra Leona.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sl.webp"
+        },  
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Singapur",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sg.webp",
+            "pista": "Tiene 8 letras y empieza por: S_______",
+            "mensaje": "**Singapur.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sg.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Siria",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sy.webp",
+            "pista": "Tiene 5 letras y empieza por: S____",
+            "mensaje": "**Siria.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sy.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Somalia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/so.webp",
+            "pista": "Tiene 7 letras y empieza por: S______",
+            "mensaje": "**Somalia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/so.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Sri Lanka",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/lk.webp",
+            "pista": "Tiene 9 letras y empieza por: S__ L____",
+            "mensaje": "**Sri Lanka.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/lk.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Suecia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/se.webp",
+            "pista": "Tiene 6 letras y empieza por: S_____",
+            "mensaje": "**Suecia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/se.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Suiza",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ch.webp",
+            "pista": "Tiene 5 letras y empieza por: S____",
+            "mensaje": "**Suiza.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ch.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Sudáfrica", "Sudafrica"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/za.webp",
+            "pista": "Tiene 9 letras y empieza por: S________",
+            "mensaje": "**Sudáfrica.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/za.webp"
+        },{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Sudán", "Sudan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sd.webp",
+            "pista": "Tiene 5 letras y empieza por: S____",
+            "mensaje": "**Sudán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sd.webp"
+        },      
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Sudán del sur", "Sudan del sur"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ss.webp",
+            "pista": "Tiene 13 letras y empieza por: S____ d__ s__",
+            "mensaje": "**Sudán del sur.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ss.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Surinam",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/sr.webp",
+            "pista": "Tiene 7 letras y empieza por: S______",
+            "mensaje": "**Surinam.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/sr.webp"
+        },
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Tailandia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/th.webp",
+            "pista": "Tiene 9 letras y empieza por: T________",
+            "mensaje": "**Tailandia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/th.webp"
+        },
+
+        {
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Taiwán", "Taiwan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tw.webp",
+            "pista": "Tiene 6 letras y empieza por: T_____",
+            "mensaje": "**Taiwán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tw.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Tanzania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tz.webp",
+            "pista": "Tiene 8 letras y empieza por: T_______",
+            "mensaje": "**Tanzania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tz.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Tayikistán", "Tayikistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tj.webp",
+            "pista": "Tiene 10 letras y empieza por: T_________",
+            "mensaje": "**Tayikistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tj.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Timor Oriental",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tl.webp",
+            "pista": "Tiene 14 letras y empieza por: T____ O_______",
+            "mensaje": "**Timor Oriental.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tl.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Togo",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tg.webp",
+            "pista": "Tiene 4 letras y empieza por: T___",
+            "mensaje": "**Togo.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tg.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Tonga",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/to.webp",
+            "pista": "Tiene 5 letras y empieza por: T____",
+            "mensaje": "**Tonga.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/to.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Tokelau",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tk.webp",
+            "pista": "Tiene 7 letras y empieza por: T______",
+            "mensaje": "**Tokelau.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tk.webp"
+        },
+
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Túnez", "Tunez"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tn.webp",
+            "pista": "Tiene 5 letras y empieza por: T____",
+            "mensaje": "**Túnez.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tn.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Turkmenistán", "Turkmenistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tm.webp",
+            "pista": "Tiene 12 letras y empieza por: T___________",
+            "mensaje": "**Turkmenistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tm.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Turquía", "Turquia"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tr.webp",
+            "pista": "Tiene 7 letras y empieza por: T______",
+            "mensaje": "**Turquía.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tr.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Tuvalu",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/tv.webp",
+            "pista": "Tiene 6 letras y empieza por: T_____",
+            "mensaje": "**Tuvalu.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/tv.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Ucrania",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ua.webp",
+            "pista": "Tiene 7 letras y empieza por: U______",
+            "mensaje": "**Ucrania.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ua.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Uganda",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ug.webp",
+            "pista": "Tiene 6 letras y empieza por: U_____",
+            "mensaje": "**Uganda.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ug.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Uruguay",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/uy.webp",
+            "pista": "Tiene 7 letras y empieza por: U______",
+            "mensaje": "**Uruguay.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/uy.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": ["Uzbekistán", "Uzbekistan"],
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/uz.webp",
+            "pista": "Tiene 10 letras y empieza por: U_________",
+            "mensaje": "**Uzbekistán.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/uz.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Vanuatu",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/vu.webp",
+            "pista": "Tiene 7 letras y empieza por: V______",
+            "mensaje": "**Vanuatu.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/vu.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Venezuela",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ve.webp",
+            "pista": "Tiene 9 letras y empieza por: V________",
+            "mensaje": "**Venezuela.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ve.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Vietnam",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/vn.webp",
+            "pista": "Tiene 7 letras y empieza por: V______",
+            "mensaje": "**Vietnam.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/vn.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Wallis y Futuna",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/wf.webp",
+            "pista": "Tiene 15 letras y empieza por: W_____ y F_____",
+            "mensaje": "**Wallis y Futuna.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/wf.webp"
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Yemen",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/ye.webp",
+            "pista": "Tiene 5 letras y empieza por: Y____",
+            "mensaje": "**Yemen.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/ye.webp"
+
+        },  
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Yibuti",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/dj.webp",
+            "pista": "Tiene 6 letras y empieza por: Y_____",
+            "mensaje": "**Yibuti.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/dj.webp"
+
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Zambia",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/zm.webp",
+            "pista": "Tiene 6 letras y empieza por: Z_____",
+            "mensaje": "**Zambia.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/zm.webp"
+
+        },
+
+{
+            "texto": "¿A que país corresponde esta bandera?",
+            "respuesta": "Zimbabue",
+            "imagen": "https://www.banderas-mundo.es/data/flags/w580/zw.webp",
+            "pista": "Tiene 8 letras y empieza por: Z_______",
+            "mensaje": "**Zimbabue.**",
+            "imagenRC": "https://www.banderas-mundo.es/data/flags/w580/zw.webp"
+
+        }
+
+
+    ]
+}

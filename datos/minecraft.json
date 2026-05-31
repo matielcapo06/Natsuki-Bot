@@ -1,0 +1,366 @@
+{
+    "Bloque de diamante": {
+        "nombres_alternativos": ["diamante"],
+        "datos": [
+            "Este bloque no se puede encontrar de forma natural.",
+            "Este bloque puede ser descrafteado en 9 unidades.",
+            "En las últimas versiones de Minecraft este bloque se puede intercambiar con aldeanos.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque solo se puede picar con pico de hierro, diamante o netherita.",
+            "Este bloque está compuesto de minerales.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Block_of_Diamond_JE5_BE3.png/revision/latest?cb=20200226013851"
+        ]
+    },
+    "Tierra": {
+        "nombres_alternativos": [],
+        "datos": [
+            "Este bloque se puede encontrar en todos los biomas del Overworld.",
+            "Este bloque tiene un único crafteo.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque tiene más de 5 variantes.",
+            "La azada puede interactuar con este bloque.",
+            "Este bloque por lo general aparece debajo del césped.",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1e_N2AZ0_fJ84qHw_la-ntUpzsnlU17Re-hZjwRNhuA&s"
+        ]
+    },
+    "Bala de heno": {
+        "nombres_alternativos": ["heno"],
+        "datos": [
+            "Este bloque se puede encontrar en el Overworld.",
+            "Este bloque puede ser descrafteado en 9 unidades.",
+            "Este bloque descrafteado puede ser intercambiado con aldeanos.",
+            "Con este bloque se pueden domesticar animales.",
+            "Este bloque te reduce el daño de caída.",
+            "Este bloque aparece en las aldeas.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c7/Hay_Bale_%28UD%29_JE2_BE2.png/revision/latest?cb=20200315184142"
+        ]
+    },
+    "Bloque de miel": {
+        "nombres_alternativos": ["miel"],
+        "datos": [
+            "Este bloque no se puede encontrar de forma natural.",
+            "Este bloque se puede craftear y descraftear infinitamente.",
+            "Este ítem tiene propiedades que sirven para hacer mecanismos.",
+            "Este bloque reduce todo el daño de caída.",
+            "Este bloque se puede picar instantáneamente.",
+            "Al descraftear este bloque con botellas puedes hacer una de las mejores comidas.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Honey_Block_JE1_BE2.png/revision/latest?cb=20200614083750"
+        ]
+    },
+    "Bloque de magma": {
+        "nombres_alternativos": ["magma"],
+        "datos": [
+            "Este bloque se puede encontrar tanto en el Overworld y en el Nether.",
+            "Este bloque se puede craftear con el drop de un Mob.",
+            "Este bloque solo se puede romper con pico.",
+            "Si te paras sobre este bloque empezarás a recibir daño.",
+            "Este bloque suele aparecer alrededor de los Portales en ruinas.",
+            "Este bloque se puede usar para bajar rápidamente en el agua.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Magma_Block_JE2_BE2.gif/revision/latest?cb=20200915183320"
+        ]
+    },
+    "Bloque de slime": {
+        "nombres_alternativos": ["slime"],
+        "datos": [
+            "Este bloque no spawnea de forma natural.",
+            "Este bloque se craftea con el drop de un Mob.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque sirve tanto para redstone como para parkour.",
+            "Este bloque se craftea con 9 unidades del mismo item.",
+            "Este bloque te reduce el daño completamente si saltas sobr él.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bb/Slime_Block_JE2_BE3.png/revision/latest?cb=20200317205027"]
+    },
+    "Vidrio": {
+        "nombres_alternativos": ["Cristal"],
+        "datos": [
+            "Este bloque spawnea en el Overworld y en el End.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Este bloque solo se puede romper con herramients con toque de seda.",
+            "Este bloque se puede usar para la redstone.",
+            "Este bloque se obtiene quemando un item en el horno.",
+            "Este bloque sirve para decoración.",
+            "Este bloque se puede intercambiar con un aldeano bibliotecario.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/83/White_Stained_Glass_JE3_BE3.png/revision/latest?cb=20200317231920"
+        ]
+    },
+    "Lana": {
+        "nombres_alternativos": [],
+        "datos": [
+            "Este bloque solo spawnea en el Overworld.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque se puede encontrar en las aldeas.",
+            "Este bloque se puede obtener de un Mob.",
+            "Este bloque puede ser de distintos colores.",
+            "Este bloque sirve para hacer camas.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/White_Wool_JE2_BE2.png/revision/latest/scale-to-width-down/268?cb=20200317231954"
+
+        ]
+    },
+    "Bloque de madera": {
+        "nombres_alternativos": ["madera"],
+        "datos": [
+            "Este bloque spawnea en el Overworld y en el Nether.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque es inflamable, es decir se puede quemar.",
+            "Este bloque es muy importante a la hora de comenzar una partida.",
+            "Este bloque tiene mas de 7 variantes.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Oak_Planks.png/revision/latest?cb=20220112085657"
+        ]
+    },
+    "Bloque de ladrillos": {
+        "nombres_alternativos": ["ladrillo"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque sirve para decoración.",
+            "Este bloque se obtiene crafteando items fundidos.",
+            "Este bloque no es inflamable, es decir no se puede quemar.",
+            "Este bloque se puede encontrar en las casas de aldeanos herreros de armaduras.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png/revision/latest?cb=20200226015249"
+        ]
+    },
+    "Bloque de arena": {
+        "nombres_alternativos": ["arena"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque se puede usar para craftear y se puede quemar.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Hay un bioma completo hecho solo de este bloque.",
+            "Este bloque al ser quemado dá Cristal.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Sand_JE5_BE3.png/revision/latest/scale-to-width-down/268?cb=20240724192202"
+        ]
+    },
+    "Bloque de piedra": {
+        "nombres_alternativos": ["piedra"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Este bloque no es inflamable, es decir no se puede quemar.",
+            "Este bloque solo se puede obtener picándolo con toque de seda.",
+            "Este bloque se usa para craftear otros bloques de decoración.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone.png/revision/latest?cb=20220112085705"
+        ]
+    },
+    "Hojas": {
+        "nombres_alternativos": ["hoja"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque es inflamable, es decir se puede quemar.",
+            "Este bloque solo se puede romper con una herramienta.",
+            "Este bloque sirve para decoración",
+            "Este bloque se puede obtener si se rompe con una herramienta con toque de seda.",
+            "Este bloque puede dar manzanas, palos o brotes si se rompe con la mano.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6d/Oak_Leaves.png/revision/latest?cb=20230226143713"
+        ]
+    },
+    "Bloque de hielo": {
+        "nombres_alternativos": ["hielo"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede romper con pico.",
+            "Este bloque se puede usar tanto para granjas como para decoración.",
+            "Este bloque se puede obtener si se rompe con una herramienta con toque de seda.",
+            "Este bloque se puede usar para transportar items de forma rápida.",
+            "Si se rompe este bloque con la mano se convierte en Agua.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Ice_JE2_BE3.png/revision/latest?cb=20200907100121"
+        ]
+    },
+    "Bloque de obsidiana": {
+        "nombres_alternativos": ["obsidiana"],
+        "datos": [
+            "Este bloque spawnea en el Overworld, el Nether y el End.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque sirve para craftear items muy importantes en el juego.",
+            "Este bloque se puede obtener intercambiandolo con piglins.",
+            "Este bloque se puede obtener mezclando dos fluidos.",
+            "Este bloque sirve para hacer portales.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Obsidian_JE3_BE2.png/revision/latest?cb=20200124042057"
+        ]
+    },
+    "Bloque de oro": {
+        "nombres_alternativos": ["oro"],
+        "datos": [
+            "Este bloque spawnea en el Overworld y en el Nether.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se puede descraftear y craftear infinitamente.",
+            "Este bloque spawnea en mas de 3 estructuras.",
+            "Este bloque se puede romper con pico de hierro para arriba.",
+            "Este bloque se descraftea en 9 items.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Block_of_Gold_JE6_BE3.png/revision/latest/scale-to-width-down/268?cb=20200226013525"
+        ]
+    },
+    "Bloque de cuarzo": {
+        "nombres_alternativos": ["Cuarzo"],
+        "datos": [
+            "Este bloque no spawnea de forma natural.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se puede usar para la redstone.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Este bloque se suele usar para decorar.",
+            "Se puede craftear este item con los drops de piglins.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Block_of_Quartz_JE4_BE2.png/revision/latest/scale-to-width-down/268?cb=20200226013559"
+        ]
+    },
+    "Piedra del End": {
+        "nombres_alternativos": [],
+        "datos": [
+            "Este bloque solo spawnea en el end.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se usa para craftear otros bloques de decoración.",
+            "Este bloque tiene una gran resistencia contra explosiones.",
+            "Este bloque es una variante de la piedra.",
+            "Este bloque está en todas las islas del End.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/43/End_Stone_JE3_BE2.png/revision/latest/scale-to-width-down/268?cb=20200315175115"
+
+        ]
+    },
+    "Bloque de huesos": {
+        "nombres_alternativos": ["huesos", "hueso"],
+        "datos": [
+            "Este bloque spawnea en el Overworld y en el Nether.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se puede craftear y descraftear infinitamente.",
+            "Este bloque se puede usar para decoración.",
+            "Este bloque da un item que se usa para granjas de tintes o flores.",
+            "Este bloque se encuentra comunmente en el bioma de arena de almas.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/37/Bone_Block_%28UD%29_JE2_BE2.png/revision/latest/scale-to-width-down/268?cb=20200226014921"
+        ]
+    },
+    "Librería": {
+        "nombres_alternativos": ["bibliotecas", "libreria", "biblioteca"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque solo se puede obtener si se rompe con toque de seda.",
+            "Este bloque se suele usar para decorar.",
+            "Este bloque aparece tanto en Strongholds como en Aldeas.",
+            "Este bloque se usa para aumentarle niveles a la mesa de encantamientos.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/Bookshelf_JE4_BE2.png/revision/latest/scale-to-width-down/268?cb=20200226014936"
+        ]
+    },
+    "TNT": {
+        "nombres_alternativos": ["dinamita"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede obtener con cualquier herramienta.",
+            "Este bloque se suele usar en la redstone.",
+            "Este bloque es de las primeras versiones de Minecraft.",
+            "Este bloque se obtiene juntando arena y polvora.",
+            "Este bloque explota.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a2/TNT_JE3_BE2.png/revision/latest?cb=20210110120939"
+        ]
+    },
+    "Bloque de esponja": {
+        "nombres_alternativos": ["esponja"],
+        "datos": [
+            "Este bloque spawnea en el Overworld",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque necesita pasar por un proceso para ser utilizado.",
+            "Este bloque se puede obtener de un Mob.",
+            "Este bloque solo se puede obtener en monumentos.",
+            "Este bloque se usa para sacar agua.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f7/Sponge_JE3_BE3.png/revision/latest?cb=20240729213346"
+
+        ]
+    },
+    "Calabaza": {
+        "nombres_alternativos": ["Zapallo"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque se puede utilizar para hacer comidas.",
+            "Este bloque se puede encontrar en mas de 3 estructuras diferentes.",
+            "Este bloque se puede usar para decoración",
+            "Este bloque se puede usar para crear Mobs.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8e/Carved_Pumpkin_%28S%29_JE4.png/revision/latest?cb=20210112033634"
+        ]
+    },
+    "Mesa de crafteo": {
+        "nombres_alternativos": [],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque tiene un inventario propio.",
+            "Este bloque se puede encontrar en las aldeas.",
+            "Este bloque se craftea con madera.",
+            "Este bloque sirve para craftear items.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b7/Crafting_Table_JE4_BE3.png/revision/latest/scale-to-width-down/268?cb=20191229083528"
+
+        ]
+    },
+    "Bloque de redstone": {
+        "nombres_alternativos": ["redstone"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se encuentra en las Ancient City.",
+            "Este bloque emite luz.",
+            "Este bloque se puede craftear y descraftear infinitamente.",
+            "Este bloque produce una señal de redstone.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Block_of_Redstone_JE2_BE2.png/revision/latest/scale-to-width-down/268?cb=20191230030530"
+        ]
+    },
+    "Piedra luminosa": {
+        "nombres_alternativos": ["glowstone"],
+        "datos": [
+            "Este bloque spawnea en el nether.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque solo se puede obtener si se rompe con una herramienta con toque de seda.",
+            "Este bloque se suele usar para decoración.",
+            "Este bloque se puede obtener crafteando items que intercambias con los piglins.",
+            "Este bloque emite luz.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a5/Glowstone_JE4_BE2.png/revision/latest/scale-to-width-down/268?cb=20220115125134"
+        ]
+    },
+    "Bloque de amatista": {
+        "nombres_alternativos": ["amatista"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque solo se puede romper con el pico.",
+            "Este bloque se encuentra dentro de las cuevas.",
+            "Este bloque se craftea con un item que sirve para hacer catalejos.",
+            "Este bloque es de las ultimas versiones de Minecraft.",
+            "Este bloque se encuentra dentro de las geodas.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e2/Block_of_Amethyst_JE3_BE1.png/revision/latest?cb=20201214104603"
+        ]
+    },
+    "Bloque de grava": {
+        "nombres_alternativos": ["grava"],
+        "datos": [
+            "Este bloque se encuentra en el Overworld y en el Nether.",
+            "Este bloque se puede romper con cualquier herramienta.",
+            "Este bloque se puede usar para craftear mas bloques si se lo combina con tierra.",
+            "Este bloque generalmente se encuentra alrededor de fluidos.",
+            "Este bloque se rompe si cae arriba de una antorcha.",
+            "Este bloque se rompe para hacer mecheros.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Gravel_JE5_BE4.png/revision/latest/scale-to-width-down/268?cb=20200315183831"
+        ]
+    },
+    "Bloque de cobre": {
+        "nombres_alternativos": ["cobre"],
+        "datos": [
+            "Este bloque no se encuentra de forma natural.",
+            "Este bloque solo se puede romper con pico.",
+            "Este bloque se puede usar tanto para redstone como para decoración",
+            "Este bloque sirve para craftear items especiales.",
+            "Este bloque es de las ultimas versiones de Minecraft.",
+            "Este bloque tiene la capacidad de oxidarse.",
+            "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/86/Copper_Block_JE1_BE1.png/revision/latest/scale-to-width-down/268?cb=20210109051126"
+        ]
+    },
+    "Bloque de nieve": {
+        "nombres_alternativos": ["nieve"],
+        "datos": [
+            "Este bloque spawnea en el Overworld.",
+            "Este bloque solo se puede romper con pala.",
+            "Este bloque solo se puede obtener si se rompe con una herramienta de toque de seda.",
+            "Este bloque se puede usar para spawnear otros Mobs.",
+            "Este bloque se encuentra en un bioma por completo.",
+            "Este bloque da 4 items iguales al romperse con una pala.",
+            "https://minecraft.fandom.com/wiki/Minecraft_Dungeons"
+        ]
+    }
+}

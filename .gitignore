@@ -141,3 +141,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Datos sensibles y base de datos del bot
+config.json
+puntos.db
